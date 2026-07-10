@@ -1,0 +1,7259 @@
+{
+ "id": 274690,
+ "name": "1/10 Electric Negev Speed",
+ "date": "2018-02-16",
+ "track": "Omer Ring",
+ "driverCount": 22,
+ "entryCount": 35,
+ "classNames": [
+  "1/10 Electric 2wd",
+  "1/10 Electric 4wd"
+ ],
+ "overall": {
+  "1/10 Electric 2wd": [
+   {
+    "pos": 1,
+    "driverName": "JBR",
+    "driverSlug": "jbr",
+    "points": 2,
+    "legs": [
+     "1st (1pts) : 18/6:07.898",
+     "5th (5pts) : 17/6:02.187",
+     "1st (1pts) : 19/6:20.047"
+    ]
+   },
+   {
+    "pos": 2,
+    "driverName": "PAUL PRICE",
+    "driverSlug": "paul-price",
+    "points": 4,
+    "legs": [
+     "8th (8pts) : 13/4:48.610",
+     "1st (1pts) : 18/6:13.622",
+     "3rd (3pts) : 18/6:10.444"
+    ]
+   },
+   {
+    "pos": 3,
+    "driverName": "ASAF GOREVICH",
+    "driverSlug": "asaf-gorevich",
+    "points": 4,
+    "legs": [
+     "7th (7pts) : 17/6:11.178",
+     "2nd (2pts) : 18/6:14.907",
+     "2nd (2pts) : 18/6:09.062"
+    ]
+   },
+   {
+    "pos": 4,
+    "driverName": "GUY RINKEVICH",
+    "driverSlug": "guy-rinkevich",
+    "points": 6,
+    "legs": [
+     "2nd (2pts) : 18/6:09.740",
+     "4th (4pts) : 18/6:21.122",
+     "7th (7pts) : 17/6:04.277"
+    ]
+   },
+   {
+    "pos": 5,
+    "driverName": "AVIV MAYMON",
+    "driverSlug": "aviv-maymon",
+    "points": 8,
+    "legs": [
+     "5th (5pts) : 17/6:05.226",
+     "3rd (3pts) : 18/6:19.275",
+     "5th (5pts) : 18/6:17.040"
+    ]
+   },
+   {
+    "pos": 6,
+    "driverName": "YOSI ARBEL",
+    "driverSlug": "yosi-arbel",
+    "points": 10,
+    "legs": [
+     "6th (6pts) : 17/6:10.467",
+     "6th (6pts) : 17/6:04.570",
+     "4th (4pts) : 18/6:13.696"
+    ]
+   },
+   {
+    "pos": 7,
+    "driverName": "ARIE ITSKOVICH",
+    "driverSlug": "arie-itskovich",
+    "points": 10,
+    "legs": [
+     "4th (4pts) : 17/6:04.313",
+     "7th (7pts) : 17/6:08.452",
+     "6th (6pts) : 17/6:01.012"
+    ]
+   },
+   {
+    "pos": 8,
+    "driverName": "TAL SILES",
+    "driverSlug": "tal-siles",
+    "points": 11,
+    "legs": [
+     "3rd (3pts) : 18/6:14.498",
+     "8th (8pts) : 17/6:16.348",
+     "8th (8pts) : 17/6:09.036"
+    ]
+   },
+   {
+    "pos": 9,
+    "driverName": "ALON SHUALI",
+    "driverSlug": "alon-shuali",
+    "points": 2,
+    "legs": [
+     "1st (1pts) : 17/6:09.226",
+     "1st (1pts) : 17/6:04.753",
+     "1st (1pts) : 17/6:08.981"
+    ]
+   },
+   {
+    "pos": 10,
+    "driverName": "ERAN KAVE",
+    "driverSlug": "eran-kave",
+    "points": 4,
+    "legs": [
+     "2nd (2pts) : 17/6:23.473",
+     "4th (4pts) : 17/6:25.433",
+     "2nd (2pts) : 17/6:17.036"
+    ]
+   },
+   {
+    "pos": 11,
+    "driverName": "YOGEV MACHLOOF",
+    "driverSlug": "yogev-machloof",
+    "points": 5,
+    "legs": [
+     "3rd (3pts) : 17/6:26.284",
+     "2nd (2pts) : 17/6:08.926",
+     "3rd (3pts) : 16/6:02.017"
+    ]
+   },
+   {
+    "pos": 12,
+    "driverName": "URIEL ZNATY",
+    "driverSlug": "uriel-znaty",
+    "points": 7,
+    "legs": [
+     "4th (4pts) : 16/6:15.606",
+     "3rd (3pts) : 17/6:16.041",
+     "4th (4pts) : 16/6:10.300"
+    ]
+   },
+   {
+    "pos": 13,
+    "driverName": "HAREL SENDEROV",
+    "driverSlug": "harel-senderov",
+    "points": 10,
+    "legs": [
+     "5th (5pts) : 14/6:02.830",
+     "5th (5pts) : 14/6:10.827",
+     "5th (5pts) : 0/0.000"
+    ]
+   }
+  ],
+  "1/10 Electric 4wd": []
+ },
+ "races": [
+  {
+   "id": 1181554,
+   "raceNum": 6,
+   "name": "A3-Main",
+   "className": "1/10 Electric 2wd",
+   "round": "Main Events",
+   "completedAt": "2018-02-16T09:29:00.000Z",
+   "results": [
+    {
+     "pos": 1,
+     "carNum": 1,
+     "driverName": "JBR",
+     "driverSlug": "jbr",
+     "qual": 1,
+     "lapsCompleted": 19,
+     "totalTime": "6:20.047",
+     "behind": "",
+     "fastLap": 19.92216,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 60.2761,
+     "stdDev": 0.34,
+     "consistency": 98.33,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 1,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 1,
+       "time": 13.444
+      },
+      {
+       "lap": 2,
+       "pos": 1,
+       "time": 19.982
+      },
+      {
+       "lap": 3,
+       "pos": 1,
+       "time": 20.236
+      },
+      {
+       "lap": 4,
+       "pos": 1,
+       "time": 20.517
+      },
+      {
+       "lap": 5,
+       "pos": 1,
+       "time": 20.012
+      },
+      {
+       "lap": 6,
+       "pos": 1,
+       "time": 20.59
+      },
+      {
+       "lap": 7,
+       "pos": 1,
+       "time": 20.557
+      },
+      {
+       "lap": 8,
+       "pos": 1,
+       "time": 20.19
+      },
+      {
+       "lap": 9,
+       "pos": 1,
+       "time": 20.143
+      },
+      {
+       "lap": 10,
+       "pos": 1,
+       "time": 20.221
+      },
+      {
+       "lap": 11,
+       "pos": 1,
+       "time": 20.027
+      },
+      {
+       "lap": 12,
+       "pos": 1,
+       "time": 20.7
+      },
+      {
+       "lap": 13,
+       "pos": 1,
+       "time": 20.929
+      },
+      {
+       "lap": 14,
+       "pos": 1,
+       "time": 20.314
+      },
+      {
+       "lap": 15,
+       "pos": 1,
+       "time": 20.815
+      },
+      {
+       "lap": 16,
+       "pos": 1,
+       "time": 19.922
+      },
+      {
+       "lap": 17,
+       "pos": 1,
+       "time": 20.054
+      },
+      {
+       "lap": 18,
+       "pos": 1,
+       "time": 20.3
+      },
+      {
+       "lap": 19,
+       "pos": 1,
+       "time": 21.094
+      }
+     ]
+    },
+    {
+     "pos": 2,
+     "carNum": 6,
+     "driverName": "ASAF GOREVICH",
+     "driverSlug": "asaf-gorevich",
+     "qual": 6,
+     "lapsCompleted": 18,
+     "totalTime": "6:09.062",
+     "behind": "1 Lap",
+     "fastLap": 19.52812,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 60.6471,
+     "stdDev": 0.72,
+     "consistency": 96.53,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 6,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 5,
+       "time": 15.466
+      },
+      {
+       "lap": 2,
+       "pos": 4,
+       "time": 21.033
+      },
+      {
+       "lap": 3,
+       "pos": 4,
+       "time": 21.208
+      },
+      {
+       "lap": 4,
+       "pos": 4,
+       "time": 21.095
+      },
+      {
+       "lap": 5,
+       "pos": 6,
+       "time": 22.992
+      },
+      {
+       "lap": 6,
+       "pos": 7,
+       "time": 21.058
+      },
+      {
+       "lap": 7,
+       "pos": 6,
+       "time": 20.228
+      },
+      {
+       "lap": 8,
+       "pos": 5,
+       "time": 21.103
+      },
+      {
+       "lap": 9,
+       "pos": 5,
+       "time": 20.4
+      },
+      {
+       "lap": 10,
+       "pos": 5,
+       "time": 20.318
+      },
+      {
+       "lap": 11,
+       "pos": 5,
+       "time": 21.534
+      },
+      {
+       "lap": 12,
+       "pos": 5,
+       "time": 19.528
+      },
+      {
+       "lap": 13,
+       "pos": 4,
+       "time": 20.584
+      },
+      {
+       "lap": 14,
+       "pos": 3,
+       "time": 20.535
+      },
+      {
+       "lap": 15,
+       "pos": 3,
+       "time": 20.495
+      },
+      {
+       "lap": 16,
+       "pos": 3,
+       "time": 20.805
+      },
+      {
+       "lap": 17,
+       "pos": 3,
+       "time": 20.167
+      },
+      {
+       "lap": 18,
+       "pos": 2,
+       "time": 20.513
+      }
+     ]
+    },
+    {
+     "pos": 3,
+     "carNum": 2,
+     "driverName": "PAUL PRICE",
+     "driverSlug": "paul-price",
+     "qual": 2,
+     "lapsCompleted": 18,
+     "totalTime": "6:10.444",
+     "behind": "1.381",
+     "fastLap": 20.33816,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 61.5061,
+     "stdDev": 0.59,
+     "consistency": 97.2,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 2,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 2,
+       "time": 13.942
+      },
+      {
+       "lap": 2,
+       "pos": 2,
+       "time": 20.719
+      },
+      {
+       "lap": 3,
+       "pos": 2,
+       "time": 20.645
+      },
+      {
+       "lap": 4,
+       "pos": 2,
+       "time": 21.656
+      },
+      {
+       "lap": 5,
+       "pos": 3,
+       "time": 20.866
+      },
+      {
+       "lap": 6,
+       "pos": 3,
+       "time": 22.712
+      },
+      {
+       "lap": 7,
+       "pos": 3,
+       "time": 21.066
+      },
+      {
+       "lap": 8,
+       "pos": 3,
+       "time": 20.526
+      },
+      {
+       "lap": 9,
+       "pos": 3,
+       "time": 20.407
+      },
+      {
+       "lap": 10,
+       "pos": 3,
+       "time": 20.573
+      },
+      {
+       "lap": 11,
+       "pos": 4,
+       "time": 21.401
+      },
+      {
+       "lap": 12,
+       "pos": 3,
+       "time": 20.573
+      },
+      {
+       "lap": 13,
+       "pos": 3,
+       "time": 21.087
+      },
+      {
+       "lap": 14,
+       "pos": 4,
+       "time": 21.729
+      },
+      {
+       "lap": 15,
+       "pos": 4,
+       "time": 20.835
+      },
+      {
+       "lap": 16,
+       "pos": 4,
+       "time": 20.338
+      },
+      {
+       "lap": 17,
+       "pos": 4,
+       "time": 20.67
+      },
+      {
+       "lap": 18,
+       "pos": 3,
+       "time": 20.699
+      }
+     ]
+    },
+    {
+     "pos": 4,
+     "carNum": 3,
+     "driverName": "YOSI ARBEL",
+     "driverSlug": "yosi-arbel",
+     "qual": 3,
+     "lapsCompleted": 18,
+     "totalTime": "6:13.696",
+     "behind": "3.251",
+     "fastLap": 19.5409,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 60.5631,
+     "stdDev": 2.03,
+     "consistency": 90.37,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 3,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 4,
+       "time": 14.962
+      },
+      {
+       "lap": 2,
+       "pos": 3,
+       "time": 20.618
+      },
+      {
+       "lap": 3,
+       "pos": 3,
+       "time": 20.171
+      },
+      {
+       "lap": 4,
+       "pos": 3,
+       "time": 21.838
+      },
+      {
+       "lap": 5,
+       "pos": 2,
+       "time": 19.871
+      },
+      {
+       "lap": 6,
+       "pos": 2,
+       "time": 21.12
+      },
+      {
+       "lap": 7,
+       "pos": 2,
+       "time": 21.158
+      },
+      {
+       "lap": 8,
+       "pos": 2,
+       "time": 21.693
+      },
+      {
+       "lap": 9,
+       "pos": 2,
+       "time": 19.54
+      },
+      {
+       "lap": 10,
+       "pos": 2,
+       "time": 20.503
+      },
+      {
+       "lap": 11,
+       "pos": 2,
+       "time": 20.52
+      },
+      {
+       "lap": 12,
+       "pos": 2,
+       "time": 20.486
+      },
+      {
+       "lap": 13,
+       "pos": 2,
+       "time": 20.44
+      },
+      {
+       "lap": 14,
+       "pos": 2,
+       "time": 20.67
+      },
+      {
+       "lap": 15,
+       "pos": 2,
+       "time": 20.814
+      },
+      {
+       "lap": 16,
+       "pos": 2,
+       "time": 20.175
+      },
+      {
+       "lap": 17,
+       "pos": 2,
+       "time": 20.212
+      },
+      {
+       "lap": 18,
+       "pos": 4,
+       "time": 28.905
+      }
+     ]
+    },
+    {
+     "pos": 5,
+     "carNum": 8,
+     "driverName": "AVIV MAYMON",
+     "driverSlug": "aviv-maymon",
+     "qual": 8,
+     "lapsCompleted": 18,
+     "totalTime": "6:17.040",
+     "behind": "3.344",
+     "fastLap": 20.0411,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 60.8721,
+     "stdDev": 1.22,
+     "consistency": 94.24,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 8,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 7,
+       "time": 16.711
+      },
+      {
+       "lap": 2,
+       "pos": 5,
+       "time": 21.424
+      },
+      {
+       "lap": 3,
+       "pos": 5,
+       "time": 21.049
+      },
+      {
+       "lap": 4,
+       "pos": 5,
+       "time": 20.913
+      },
+      {
+       "lap": 5,
+       "pos": 4,
+       "time": 20.552
+      },
+      {
+       "lap": 6,
+       "pos": 4,
+       "time": 20.855
+      },
+      {
+       "lap": 7,
+       "pos": 4,
+       "time": 20.2
+      },
+      {
+       "lap": 8,
+       "pos": 4,
+       "time": 21.464
+      },
+      {
+       "lap": 9,
+       "pos": 4,
+       "time": 20.628
+      },
+      {
+       "lap": 10,
+       "pos": 4,
+       "time": 20.041
+      },
+      {
+       "lap": 11,
+       "pos": 3,
+       "time": 20.203
+      },
+      {
+       "lap": 12,
+       "pos": 4,
+       "time": 21.465
+      },
+      {
+       "lap": 13,
+       "pos": 5,
+       "time": 23.201
+      },
+      {
+       "lap": 14,
+       "pos": 5,
+       "time": 20.052
+      },
+      {
+       "lap": 15,
+       "pos": 5,
+       "time": 24.449
+      },
+      {
+       "lap": 16,
+       "pos": 5,
+       "time": 20.553
+      },
+      {
+       "lap": 17,
+       "pos": 5,
+       "time": 20.194
+      },
+      {
+       "lap": 18,
+       "pos": 5,
+       "time": 23.086
+      }
+     ]
+    },
+    {
+     "pos": 6,
+     "carNum": 7,
+     "driverName": "ARIE ITSKOVICH",
+     "driverSlug": "arie-itskovich",
+     "qual": 7,
+     "lapsCompleted": 17,
+     "totalTime": "6:01.012",
+     "behind": "1 Lap",
+     "fastLap": 20.15916,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 62.0011,
+     "stdDev": 1.41,
+     "consistency": 93.49,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 7,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 6,
+       "time": 16.017
+      },
+      {
+       "lap": 2,
+       "pos": 6,
+       "time": 22.287
+      },
+      {
+       "lap": 3,
+       "pos": 6,
+       "time": 21.431
+      },
+      {
+       "lap": 4,
+       "pos": 6,
+       "time": 20.807
+      },
+      {
+       "lap": 5,
+       "pos": 5,
+       "time": 20.451
+      },
+      {
+       "lap": 6,
+       "pos": 6,
+       "time": 21.618
+      },
+      {
+       "lap": 7,
+       "pos": 7,
+       "time": 26.24
+      },
+      {
+       "lap": 8,
+       "pos": 7,
+       "time": 21.396
+      },
+      {
+       "lap": 9,
+       "pos": 7,
+       "time": 20.422
+      },
+      {
+       "lap": 10,
+       "pos": 6,
+       "time": 21.005
+      },
+      {
+       "lap": 11,
+       "pos": 6,
+       "time": 21.82
+      },
+      {
+       "lap": 12,
+       "pos": 6,
+       "time": 20.822
+      },
+      {
+       "lap": 13,
+       "pos": 6,
+       "time": 21.646
+      },
+      {
+       "lap": 14,
+       "pos": 6,
+       "time": 23.049
+      },
+      {
+       "lap": 15,
+       "pos": 6,
+       "time": 20.723
+      },
+      {
+       "lap": 16,
+       "pos": 6,
+       "time": 20.159
+      },
+      {
+       "lap": 17,
+       "pos": 6,
+       "time": 21.119
+      }
+     ]
+    },
+    {
+     "pos": 7,
+     "carNum": 4,
+     "driverName": "GUY RINKEVICH",
+     "driverSlug": "guy-rinkevich",
+     "qual": 4,
+     "lapsCompleted": 17,
+     "totalTime": "6:04.277",
+     "behind": "3.265",
+     "fastLap": 19.7807,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 61.0331,
+     "stdDev": 1.67,
+     "consistency": 92.27,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 4,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 8,
+       "time": 18.264
+      },
+      {
+       "lap": 2,
+       "pos": 7,
+       "time": 21.221
+      },
+      {
+       "lap": 3,
+       "pos": 7,
+       "time": 20.899
+      },
+      {
+       "lap": 4,
+       "pos": 7,
+       "time": 20.413
+      },
+      {
+       "lap": 5,
+       "pos": 7,
+       "time": 21.141
+      },
+      {
+       "lap": 6,
+       "pos": 5,
+       "time": 20.583
+      },
+      {
+       "lap": 7,
+       "pos": 5,
+       "time": 19.78
+      },
+      {
+       "lap": 8,
+       "pos": 6,
+       "time": 23.751
+      },
+      {
+       "lap": 9,
+       "pos": 6,
+       "time": 20.798
+      },
+      {
+       "lap": 10,
+       "pos": 7,
+       "time": 25.002
+      },
+      {
+       "lap": 11,
+       "pos": 8,
+       "time": 25.154
+      },
+      {
+       "lap": 12,
+       "pos": 8,
+       "time": 22.45
+      },
+      {
+       "lap": 13,
+       "pos": 7,
+       "time": 23.089
+      },
+      {
+       "lap": 14,
+       "pos": 7,
+       "time": 20.643
+      },
+      {
+       "lap": 15,
+       "pos": 7,
+       "time": 20.247
+      },
+      {
+       "lap": 16,
+       "pos": 7,
+       "time": 20.143
+      },
+      {
+       "lap": 17,
+       "pos": 7,
+       "time": 20.699
+      }
+     ]
+    },
+    {
+     "pos": 8,
+     "carNum": 5,
+     "driverName": "TAL SILES",
+     "driverSlug": "tal-siles",
+     "qual": 5,
+     "lapsCompleted": 17,
+     "totalTime": "6:09.036",
+     "behind": "4.759",
+     "fastLap": 19.5294,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": null,
+     "stdDev": 3.21,
+     "consistency": 85.53,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 5,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 3,
+       "time": 14.161
+      },
+      {
+       "lap": 2,
+       "pos": 8,
+       "time": 26.353
+      },
+      {
+       "lap": 3,
+       "pos": 8,
+       "time": 22.677
+      },
+      {
+       "lap": 4,
+       "pos": 8,
+       "time": 19.529
+      },
+      {
+       "lap": 5,
+       "pos": 8,
+       "time": 30.89
+      },
+      {
+       "lap": 6,
+       "pos": 8,
+       "time": 19.961
+      },
+      {
+       "lap": 7,
+       "pos": 8,
+       "time": 20.874
+      },
+      {
+       "lap": 8,
+       "pos": 8,
+       "time": 19.631
+      },
+      {
+       "lap": 9,
+       "pos": 8,
+       "time": 19.736
+      },
+      {
+       "lap": 10,
+       "pos": 8,
+       "time": 19.857
+      },
+      {
+       "lap": 11,
+       "pos": 7,
+       "time": 20.079
+      },
+      {
+       "lap": 12,
+       "pos": 7,
+       "time": 25.604
+      },
+      {
+       "lap": 13,
+       "pos": 8,
+       "time": 26.027
+      },
+      {
+       "lap": 14,
+       "pos": 8,
+       "time": 19.767
+      },
+      {
+       "lap": 15,
+       "pos": 8,
+       "time": 20.668
+      },
+      {
+       "lap": 16,
+       "pos": 8,
+       "time": 21.612
+      },
+      {
+       "lap": 17,
+       "pos": 8,
+       "time": 21.61
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1181553,
+   "raceNum": 5,
+   "name": "A2-Main",
+   "className": "1/10 Electric 2wd",
+   "round": "Main Events",
+   "completedAt": "2018-02-16T09:04:00.000Z",
+   "results": [
+    {
+     "pos": 1,
+     "carNum": 2,
+     "driverName": "PAUL PRICE",
+     "driverSlug": "paul-price",
+     "qual": 2,
+     "lapsCompleted": 18,
+     "totalTime": "6:13.622",
+     "behind": "",
+     "fastLap": 20.3354,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 61.7931,
+     "stdDev": 0.53,
+     "consistency": 97.5,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 2,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 2,
+       "time": 14.096
+      },
+      {
+       "lap": 2,
+       "pos": 1,
+       "time": 21.556
+      },
+      {
+       "lap": 3,
+       "pos": 1,
+       "time": 20.939
+      },
+      {
+       "lap": 4,
+       "pos": 1,
+       "time": 20.335
+      },
+      {
+       "lap": 5,
+       "pos": 1,
+       "time": 20.519
+      },
+      {
+       "lap": 6,
+       "pos": 1,
+       "time": 20.984
+      },
+      {
+       "lap": 7,
+       "pos": 1,
+       "time": 22.063
+      },
+      {
+       "lap": 8,
+       "pos": 1,
+       "time": 20.694
+      },
+      {
+       "lap": 9,
+       "pos": 1,
+       "time": 20.725
+      },
+      {
+       "lap": 10,
+       "pos": 1,
+       "time": 21.411
+      },
+      {
+       "lap": 11,
+       "pos": 1,
+       "time": 20.958
+      },
+      {
+       "lap": 12,
+       "pos": 2,
+       "time": 21.949
+      },
+      {
+       "lap": 13,
+       "pos": 1,
+       "time": 20.451
+      },
+      {
+       "lap": 14,
+       "pos": 1,
+       "time": 20.934
+      },
+      {
+       "lap": 15,
+       "pos": 1,
+       "time": 21.38
+      },
+      {
+       "lap": 16,
+       "pos": 1,
+       "time": 22.066
+      },
+      {
+       "lap": 17,
+       "pos": 1,
+       "time": 21.164
+      },
+      {
+       "lap": 18,
+       "pos": 1,
+       "time": 21.398
+      }
+     ]
+    },
+    {
+     "pos": 2,
+     "carNum": 6,
+     "driverName": "ASAF GOREVICH",
+     "driverSlug": "asaf-gorevich",
+     "qual": 6,
+     "lapsCompleted": 18,
+     "totalTime": "6:14.907",
+     "behind": "1.285",
+     "fastLap": 19.6711,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 61.8041,
+     "stdDev": 1.17,
+     "consistency": 94.45,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 6,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 5,
+       "time": 16.247
+      },
+      {
+       "lap": 2,
+       "pos": 3,
+       "time": 21.427
+      },
+      {
+       "lap": 3,
+       "pos": 3,
+       "time": 20.366
+      },
+      {
+       "lap": 4,
+       "pos": 3,
+       "time": 20.968
+      },
+      {
+       "lap": 5,
+       "pos": 3,
+       "time": 20.872
+      },
+      {
+       "lap": 6,
+       "pos": 4,
+       "time": 23.288
+      },
+      {
+       "lap": 7,
+       "pos": 3,
+       "time": 20.468
+      },
+      {
+       "lap": 8,
+       "pos": 4,
+       "time": 23.27
+      },
+      {
+       "lap": 9,
+       "pos": 4,
+       "time": 20.203
+      },
+      {
+       "lap": 10,
+       "pos": 4,
+       "time": 19.671
+      },
+      {
+       "lap": 11,
+       "pos": 5,
+       "time": 23.822
+      },
+      {
+       "lap": 12,
+       "pos": 4,
+       "time": 20.08
+      },
+      {
+       "lap": 13,
+       "pos": 2,
+       "time": 21.159
+      },
+      {
+       "lap": 14,
+       "pos": 2,
+       "time": 20.796
+      },
+      {
+       "lap": 15,
+       "pos": 2,
+       "time": 20.466
+      },
+      {
+       "lap": 16,
+       "pos": 2,
+       "time": 20.786
+      },
+      {
+       "lap": 17,
+       "pos": 2,
+       "time": 20.783
+      },
+      {
+       "lap": 18,
+       "pos": 2,
+       "time": 20.235
+      }
+     ]
+    },
+    {
+     "pos": 3,
+     "carNum": 8,
+     "driverName": "AVIV MAYMON",
+     "driverSlug": "aviv-maymon",
+     "qual": 8,
+     "lapsCompleted": 18,
+     "totalTime": "6:19.275",
+     "behind": "4.368",
+     "fastLap": 19.90511,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 60.9161,
+     "stdDev": 1.4,
+     "consistency": 93.45,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 8,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 6,
+       "time": 17.172
+      },
+      {
+       "lap": 2,
+       "pos": 5,
+       "time": 21.015
+      },
+      {
+       "lap": 3,
+       "pos": 5,
+       "time": 23.084
+      },
+      {
+       "lap": 4,
+       "pos": 5,
+       "time": 22.814
+      },
+      {
+       "lap": 5,
+       "pos": 5,
+       "time": 20.356
+      },
+      {
+       "lap": 6,
+       "pos": 5,
+       "time": 21.236
+      },
+      {
+       "lap": 7,
+       "pos": 4,
+       "time": 19.928
+      },
+      {
+       "lap": 8,
+       "pos": 6,
+       "time": 24.303
+      },
+      {
+       "lap": 9,
+       "pos": 6,
+       "time": 20.478
+      },
+      {
+       "lap": 10,
+       "pos": 6,
+       "time": 22.928
+      },
+      {
+       "lap": 11,
+       "pos": 6,
+       "time": 19.905
+      },
+      {
+       "lap": 12,
+       "pos": 5,
+       "time": 20.128
+      },
+      {
+       "lap": 13,
+       "pos": 5,
+       "time": 23.59
+      },
+      {
+       "lap": 14,
+       "pos": 5,
+       "time": 19.935
+      },
+      {
+       "lap": 15,
+       "pos": 3,
+       "time": 20.604
+      },
+      {
+       "lap": 16,
+       "pos": 3,
+       "time": 20.377
+      },
+      {
+       "lap": 17,
+       "pos": 3,
+       "time": 20.778
+      },
+      {
+       "lap": 18,
+       "pos": 3,
+       "time": 20.644
+      }
+     ]
+    },
+    {
+     "pos": 4,
+     "carNum": 4,
+     "driverName": "GUY RINKEVICH",
+     "driverSlug": "guy-rinkevich",
+     "qual": 4,
+     "lapsCompleted": 18,
+     "totalTime": "6:21.122",
+     "behind": "1.847",
+     "fastLap": 19.6591,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": null,
+     "stdDev": 1.84,
+     "consistency": 91.45,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 4,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 4,
+       "time": 15.473
+      },
+      {
+       "lap": 2,
+       "pos": 2,
+       "time": 21.691
+      },
+      {
+       "lap": 3,
+       "pos": 2,
+       "time": 20.484
+      },
+      {
+       "lap": 4,
+       "pos": 2,
+       "time": 20.627
+      },
+      {
+       "lap": 5,
+       "pos": 2,
+       "time": 20.385
+      },
+      {
+       "lap": 6,
+       "pos": 2,
+       "time": 20.999
+      },
+      {
+       "lap": 7,
+       "pos": 5,
+       "time": 26.719
+      },
+      {
+       "lap": 8,
+       "pos": 3,
+       "time": 19.887
+      },
+      {
+       "lap": 9,
+       "pos": 3,
+       "time": 20.451
+      },
+      {
+       "lap": 10,
+       "pos": 3,
+       "time": 19.659
+      },
+      {
+       "lap": 11,
+       "pos": 3,
+       "time": 21.31
+      },
+      {
+       "lap": 12,
+       "pos": 3,
+       "time": 21.047
+      },
+      {
+       "lap": 13,
+       "pos": 3,
+       "time": 23.259
+      },
+      {
+       "lap": 14,
+       "pos": 4,
+       "time": 23.837
+      },
+      {
+       "lap": 15,
+       "pos": 4,
+       "time": 24.157
+      },
+      {
+       "lap": 16,
+       "pos": 4,
+       "time": 20.55
+      },
+      {
+       "lap": 17,
+       "pos": 4,
+       "time": 20.026
+      },
+      {
+       "lap": 18,
+       "pos": 4,
+       "time": 20.561
+      }
+     ]
+    },
+    {
+     "pos": 5,
+     "carNum": 1,
+     "driverName": "JBR",
+     "driverSlug": "jbr",
+     "qual": 1,
+     "lapsCompleted": 17,
+     "totalTime": "6:02.187",
+     "behind": "1 Lap",
+     "fastLap": 19.5887,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 60.1861,
+     "stdDev": 2.52,
+     "consistency": 88.4,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 1,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 1,
+       "time": 13.916
+      },
+      {
+       "lap": 2,
+       "pos": 6,
+       "time": 24.433
+      },
+      {
+       "lap": 3,
+       "pos": 8,
+       "time": 26.106
+      },
+      {
+       "lap": 4,
+       "pos": 8,
+       "time": 22.774
+      },
+      {
+       "lap": 5,
+       "pos": 6,
+       "time": 20.289
+      },
+      {
+       "lap": 6,
+       "pos": 6,
+       "time": 20.309
+      },
+      {
+       "lap": 7,
+       "pos": 6,
+       "time": 19.588
+      },
+      {
+       "lap": 8,
+       "pos": 5,
+       "time": 20.893
+      },
+      {
+       "lap": 9,
+       "pos": 5,
+       "time": 20.497
+      },
+      {
+       "lap": 10,
+       "pos": 5,
+       "time": 19.634
+      },
+      {
+       "lap": 11,
+       "pos": 4,
+       "time": 20.566
+      },
+      {
+       "lap": 12,
+       "pos": 6,
+       "time": 24.612
+      },
+      {
+       "lap": 13,
+       "pos": 4,
+       "time": 19.84
+      },
+      {
+       "lap": 14,
+       "pos": 3,
+       "time": 20.761
+      },
+      {
+       "lap": 15,
+       "pos": 5,
+       "time": 27.965
+      },
+      {
+       "lap": 16,
+       "pos": 5,
+       "time": 19.755
+      },
+      {
+       "lap": 17,
+       "pos": 5,
+       "time": 20.249
+      }
+     ]
+    },
+    {
+     "pos": 6,
+     "carNum": 3,
+     "driverName": "YOSI ARBEL",
+     "driverSlug": "yosi-arbel",
+     "qual": 3,
+     "lapsCompleted": 17,
+     "totalTime": "6:04.570",
+     "behind": "2.383",
+     "fastLap": 19.07912,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 61.3811,
+     "stdDev": 3.15,
+     "consistency": 85.61,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 3,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 3,
+       "time": 14.584
+      },
+      {
+       "lap": 2,
+       "pos": 4,
+       "time": 23.307
+      },
+      {
+       "lap": 3,
+       "pos": 4,
+       "time": 22.08
+      },
+      {
+       "lap": 4,
+       "pos": 4,
+       "time": 19.914
+      },
+      {
+       "lap": 5,
+       "pos": 4,
+       "time": 20.435
+      },
+      {
+       "lap": 6,
+       "pos": 3,
+       "time": 21.032
+      },
+      {
+       "lap": 7,
+       "pos": 2,
+       "time": 21.836
+      },
+      {
+       "lap": 8,
+       "pos": 2,
+       "time": 21.247
+      },
+      {
+       "lap": 9,
+       "pos": 2,
+       "time": 19.665
+      },
+      {
+       "lap": 10,
+       "pos": 2,
+       "time": 21.623
+      },
+      {
+       "lap": 11,
+       "pos": 2,
+       "time": 21.132
+      },
+      {
+       "lap": 12,
+       "pos": 1,
+       "time": 19.079
+      },
+      {
+       "lap": 13,
+       "pos": 6,
+       "time": 32.78
+      },
+      {
+       "lap": 14,
+       "pos": 6,
+       "time": 20.905
+      },
+      {
+       "lap": 15,
+       "pos": 6,
+       "time": 24.916
+      },
+      {
+       "lap": 16,
+       "pos": 6,
+       "time": 20.007
+      },
+      {
+       "lap": 17,
+       "pos": 6,
+       "time": 20.028
+      }
+     ]
+    },
+    {
+     "pos": 7,
+     "carNum": 7,
+     "driverName": "ARIE ITSKOVICH",
+     "driverSlug": "arie-itskovich",
+     "qual": 7,
+     "lapsCompleted": 17,
+     "totalTime": "6:08.452",
+     "behind": "3.882",
+     "fastLap": 20.2997,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 61.9521,
+     "stdDev": 1.58,
+     "consistency": 92.78,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 7,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 7,
+       "time": 18.008
+      },
+      {
+       "lap": 2,
+       "pos": 7,
+       "time": 21.02
+      },
+      {
+       "lap": 3,
+       "pos": 6,
+       "time": 23.8
+      },
+      {
+       "lap": 4,
+       "pos": 6,
+       "time": 23.499
+      },
+      {
+       "lap": 5,
+       "pos": 7,
+       "time": 21.696
+      },
+      {
+       "lap": 6,
+       "pos": 8,
+       "time": 21.643
+      },
+      {
+       "lap": 7,
+       "pos": 7,
+       "time": 20.299
+      },
+      {
+       "lap": 8,
+       "pos": 7,
+       "time": 20.653
+      },
+      {
+       "lap": 9,
+       "pos": 7,
+       "time": 21
+      },
+      {
+       "lap": 10,
+       "pos": 7,
+       "time": 26.56
+      },
+      {
+       "lap": 11,
+       "pos": 7,
+       "time": 21.438
+      },
+      {
+       "lap": 12,
+       "pos": 7,
+       "time": 21.165
+      },
+      {
+       "lap": 13,
+       "pos": 7,
+       "time": 23.262
+      },
+      {
+       "lap": 14,
+       "pos": 7,
+       "time": 20.912
+      },
+      {
+       "lap": 15,
+       "pos": 7,
+       "time": 21.895
+      },
+      {
+       "lap": 16,
+       "pos": 7,
+       "time": 20.368
+      },
+      {
+       "lap": 17,
+       "pos": 7,
+       "time": 21.234
+      }
+     ]
+    },
+    {
+     "pos": 8,
+     "carNum": 5,
+     "driverName": "TAL SILES",
+     "driverSlug": "tal-siles",
+     "qual": 5,
+     "lapsCompleted": 17,
+     "totalTime": "6:16.348",
+     "behind": "7.896",
+     "fastLap": 20.27111,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 61.9461,
+     "stdDev": 2.5,
+     "consistency": 88.82,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 5,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 8,
+       "time": 18.65
+      },
+      {
+       "lap": 2,
+       "pos": 8,
+       "time": 20.575
+      },
+      {
+       "lap": 3,
+       "pos": 7,
+       "time": 24.876
+      },
+      {
+       "lap": 4,
+       "pos": 7,
+       "time": 22.682
+      },
+      {
+       "lap": 5,
+       "pos": 8,
+       "time": 21.692
+      },
+      {
+       "lap": 6,
+       "pos": 7,
+       "time": 20.412
+      },
+      {
+       "lap": 7,
+       "pos": 8,
+       "time": 29.7
+      },
+      {
+       "lap": 8,
+       "pos": 8,
+       "time": 20.788
+      },
+      {
+       "lap": 9,
+       "pos": 8,
+       "time": 21.367
+      },
+      {
+       "lap": 10,
+       "pos": 8,
+       "time": 20.308
+      },
+      {
+       "lap": 11,
+       "pos": 8,
+       "time": 20.271
+      },
+      {
+       "lap": 12,
+       "pos": 8,
+       "time": 21.537
+      },
+      {
+       "lap": 13,
+       "pos": 8,
+       "time": 23.683
+      },
+      {
+       "lap": 14,
+       "pos": 8,
+       "time": 21.614
+      },
+      {
+       "lap": 15,
+       "pos": 8,
+       "time": 26.084
+      },
+      {
+       "lap": 16,
+       "pos": 8,
+       "time": 21.152
+      },
+      {
+       "lap": 17,
+       "pos": 8,
+       "time": 20.957
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1181552,
+   "raceNum": 4,
+   "name": "A1-Main",
+   "className": "1/10 Electric 2wd",
+   "round": "Main Events",
+   "completedAt": "2018-02-16T08:40:00.000Z",
+   "results": [
+    {
+     "pos": 1,
+     "carNum": 1,
+     "driverName": "JBR",
+     "driverSlug": "jbr",
+     "qual": 1,
+     "lapsCompleted": 18,
+     "totalTime": "6:07.898",
+     "behind": "",
+     "fastLap": 19.7303,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 60.8441,
+     "stdDev": 0.76,
+     "consistency": 96.35,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 1,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 1,
+       "time": 13.34
+      },
+      {
+       "lap": 2,
+       "pos": 1,
+       "time": 20.569
+      },
+      {
+       "lap": 3,
+       "pos": 1,
+       "time": 19.73
+      },
+      {
+       "lap": 4,
+       "pos": 1,
+       "time": 21.129
+      },
+      {
+       "lap": 5,
+       "pos": 1,
+       "time": 19.985
+      },
+      {
+       "lap": 6,
+       "pos": 1,
+       "time": 20.311
+      },
+      {
+       "lap": 7,
+       "pos": 1,
+       "time": 21.117
+      },
+      {
+       "lap": 8,
+       "pos": 1,
+       "time": 20.092
+      },
+      {
+       "lap": 9,
+       "pos": 1,
+       "time": 21.513
+      },
+      {
+       "lap": 10,
+       "pos": 1,
+       "time": 20.933
+      },
+      {
+       "lap": 11,
+       "pos": 1,
+       "time": 20.186
+      },
+      {
+       "lap": 12,
+       "pos": 1,
+       "time": 22.503
+      },
+      {
+       "lap": 13,
+       "pos": 1,
+       "time": 21.115
+      },
+      {
+       "lap": 14,
+       "pos": 1,
+       "time": 20.792
+      },
+      {
+       "lap": 15,
+       "pos": 1,
+       "time": 22.529
+      },
+      {
+       "lap": 16,
+       "pos": 1,
+       "time": 20.359
+      },
+      {
+       "lap": 17,
+       "pos": 1,
+       "time": 20.726
+      },
+      {
+       "lap": 18,
+       "pos": 1,
+       "time": 20.969
+      }
+     ]
+    },
+    {
+     "pos": 2,
+     "carNum": 4,
+     "driverName": "GUY RINKEVICH",
+     "driverSlug": "guy-rinkevich",
+     "qual": 4,
+     "lapsCompleted": 18,
+     "totalTime": "6:09.740",
+     "behind": "1.842",
+     "fastLap": 19.92812,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 60.5711,
+     "stdDev": 0.81,
+     "consistency": 96.1,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 4,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 3,
+       "time": 15.54
+      },
+      {
+       "lap": 2,
+       "pos": 3,
+       "time": 20.858
+      },
+      {
+       "lap": 3,
+       "pos": 2,
+       "time": 21.139
+      },
+      {
+       "lap": 4,
+       "pos": 3,
+       "time": 22.203
+      },
+      {
+       "lap": 5,
+       "pos": 3,
+       "time": 21.205
+      },
+      {
+       "lap": 6,
+       "pos": 3,
+       "time": 20.578
+      },
+      {
+       "lap": 7,
+       "pos": 3,
+       "time": 20.007
+      },
+      {
+       "lap": 8,
+       "pos": 3,
+       "time": 20.142
+      },
+      {
+       "lap": 9,
+       "pos": 2,
+       "time": 20.422
+      },
+      {
+       "lap": 10,
+       "pos": 3,
+       "time": 23.337
+      },
+      {
+       "lap": 11,
+       "pos": 2,
+       "time": 21.008
+      },
+      {
+       "lap": 12,
+       "pos": 2,
+       "time": 19.928
+      },
+      {
+       "lap": 13,
+       "pos": 2,
+       "time": 20.412
+      },
+      {
+       "lap": 14,
+       "pos": 2,
+       "time": 20.368
+      },
+      {
+       "lap": 15,
+       "pos": 2,
+       "time": 20.734
+      },
+      {
+       "lap": 16,
+       "pos": 2,
+       "time": 20.41
+      },
+      {
+       "lap": 17,
+       "pos": 2,
+       "time": 20.673
+      },
+      {
+       "lap": 18,
+       "pos": 2,
+       "time": 20.776
+      }
+     ]
+    },
+    {
+     "pos": 3,
+     "carNum": 5,
+     "driverName": "TAL SILES",
+     "driverSlug": "tal-siles",
+     "qual": 5,
+     "lapsCompleted": 18,
+     "totalTime": "6:14.498",
+     "behind": "4.758",
+     "fastLap": 19.6054,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 60.2681,
+     "stdDev": 1.35,
+     "consistency": 93.64,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 5,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 2,
+       "time": 14.294
+      },
+      {
+       "lap": 2,
+       "pos": 2,
+       "time": 19.966
+      },
+      {
+       "lap": 3,
+       "pos": 3,
+       "time": 23.547
+      },
+      {
+       "lap": 4,
+       "pos": 2,
+       "time": 19.605
+      },
+      {
+       "lap": 5,
+       "pos": 2,
+       "time": 20.255
+      },
+      {
+       "lap": 6,
+       "pos": 2,
+       "time": 21.999
+      },
+      {
+       "lap": 7,
+       "pos": 2,
+       "time": 19.966
+      },
+      {
+       "lap": 8,
+       "pos": 2,
+       "time": 21.003
+      },
+      {
+       "lap": 9,
+       "pos": 3,
+       "time": 21.733
+      },
+      {
+       "lap": 10,
+       "pos": 2,
+       "time": 21.533
+      },
+      {
+       "lap": 11,
+       "pos": 3,
+       "time": 23.38
+      },
+      {
+       "lap": 12,
+       "pos": 3,
+       "time": 20.951
+      },
+      {
+       "lap": 13,
+       "pos": 3,
+       "time": 20.851
+      },
+      {
+       "lap": 14,
+       "pos": 3,
+       "time": 20.137
+      },
+      {
+       "lap": 15,
+       "pos": 3,
+       "time": 20.018
+      },
+      {
+       "lap": 16,
+       "pos": 3,
+       "time": 20.113
+      },
+      {
+       "lap": 17,
+       "pos": 3,
+       "time": 20.924
+      },
+      {
+       "lap": 18,
+       "pos": 3,
+       "time": 24.223
+      }
+     ]
+    },
+    {
+     "pos": 4,
+     "carNum": 7,
+     "driverName": "ARIE ITSKOVICH",
+     "driverSlug": "arie-itskovich",
+     "qual": 7,
+     "lapsCompleted": 17,
+     "totalTime": "6:04.313",
+     "behind": "1 Lap",
+     "fastLap": 20.4734,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 62.3151,
+     "stdDev": 1.28,
+     "consistency": 94.09,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 7,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 6,
+       "time": 18.596
+      },
+      {
+       "lap": 2,
+       "pos": 7,
+       "time": 24.911
+      },
+      {
+       "lap": 3,
+       "pos": 5,
+       "time": 20.504
+      },
+      {
+       "lap": 4,
+       "pos": 5,
+       "time": 20.473
+      },
+      {
+       "lap": 5,
+       "pos": 5,
+       "time": 21.338
+      },
+      {
+       "lap": 6,
+       "pos": 5,
+       "time": 20.929
+      },
+      {
+       "lap": 7,
+       "pos": 4,
+       "time": 24.421
+      },
+      {
+       "lap": 8,
+       "pos": 4,
+       "time": 20.758
+      },
+      {
+       "lap": 9,
+       "pos": 4,
+       "time": 20.523
+      },
+      {
+       "lap": 10,
+       "pos": 4,
+       "time": 21.758
+      },
+      {
+       "lap": 11,
+       "pos": 4,
+       "time": 22.515
+      },
+      {
+       "lap": 12,
+       "pos": 4,
+       "time": 21.542
+      },
+      {
+       "lap": 13,
+       "pos": 4,
+       "time": 21.154
+      },
+      {
+       "lap": 14,
+       "pos": 4,
+       "time": 20.621
+      },
+      {
+       "lap": 15,
+       "pos": 4,
+       "time": 21.215
+      },
+      {
+       "lap": 16,
+       "pos": 4,
+       "time": 21.758
+      },
+      {
+       "lap": 17,
+       "pos": 4,
+       "time": 21.297
+      }
+     ]
+    },
+    {
+     "pos": 5,
+     "carNum": 8,
+     "driverName": "AVIV MAYMON",
+     "driverSlug": "aviv-maymon",
+     "qual": 8,
+     "lapsCompleted": 17,
+     "totalTime": "6:05.226",
+     "behind": "0.913",
+     "fastLap": 20.08215,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 60.3881,
+     "stdDev": 2.82,
+     "consistency": 87.08,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 8,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 4,
+       "time": 16.767
+      },
+      {
+       "lap": 2,
+       "pos": 4,
+       "time": 23.372
+      },
+      {
+       "lap": 3,
+       "pos": 4,
+       "time": 20.822
+      },
+      {
+       "lap": 4,
+       "pos": 4,
+       "time": 21.51
+      },
+      {
+       "lap": 5,
+       "pos": 4,
+       "time": 20.468
+      },
+      {
+       "lap": 6,
+       "pos": 4,
+       "time": 20.404
+      },
+      {
+       "lap": 7,
+       "pos": 5,
+       "time": 31.326
+      },
+      {
+       "lap": 8,
+       "pos": 5,
+       "time": 21.271
+      },
+      {
+       "lap": 9,
+       "pos": 5,
+       "time": 21.454
+      },
+      {
+       "lap": 10,
+       "pos": 6,
+       "time": 25.397
+      },
+      {
+       "lap": 11,
+       "pos": 6,
+       "time": 20.297
+      },
+      {
+       "lap": 12,
+       "pos": 6,
+       "time": 21.032
+      },
+      {
+       "lap": 13,
+       "pos": 6,
+       "time": 20.55
+      },
+      {
+       "lap": 14,
+       "pos": 5,
+       "time": 20.152
+      },
+      {
+       "lap": 15,
+       "pos": 5,
+       "time": 20.082
+      },
+      {
+       "lap": 16,
+       "pos": 5,
+       "time": 20.154
+      },
+      {
+       "lap": 17,
+       "pos": 5,
+       "time": 20.168
+      }
+     ]
+    },
+    {
+     "pos": 6,
+     "carNum": 3,
+     "driverName": "YOSI ARBEL",
+     "driverSlug": "yosi-arbel",
+     "qual": 3,
+     "lapsCompleted": 17,
+     "totalTime": "6:10.467",
+     "behind": "5.241",
+     "fastLap": 19.97612,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 61.4961,
+     "stdDev": 1.52,
+     "consistency": 92.99,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 3,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 8,
+       "time": 22.839
+      },
+      {
+       "lap": 2,
+       "pos": 8,
+       "time": 23.292
+      },
+      {
+       "lap": 3,
+       "pos": 8,
+       "time": 22.205
+      },
+      {
+       "lap": 4,
+       "pos": 8,
+       "time": 20.737
+      },
+      {
+       "lap": 5,
+       "pos": 6,
+       "time": 20.777
+      },
+      {
+       "lap": 6,
+       "pos": 6,
+       "time": 19.982
+      },
+      {
+       "lap": 7,
+       "pos": 6,
+       "time": 25.31
+      },
+      {
+       "lap": 8,
+       "pos": 6,
+       "time": 22.05
+      },
+      {
+       "lap": 9,
+       "pos": 6,
+       "time": 21.828
+      },
+      {
+       "lap": 10,
+       "pos": 5,
+       "time": 20.744
+      },
+      {
+       "lap": 11,
+       "pos": 5,
+       "time": 21.61
+      },
+      {
+       "lap": 12,
+       "pos": 5,
+       "time": 19.976
+      },
+      {
+       "lap": 13,
+       "pos": 5,
+       "time": 22.534
+      },
+      {
+       "lap": 14,
+       "pos": 6,
+       "time": 24.384
+      },
+      {
+       "lap": 15,
+       "pos": 6,
+       "time": 20.396
+      },
+      {
+       "lap": 16,
+       "pos": 6,
+       "time": 21.809
+      },
+      {
+       "lap": 17,
+       "pos": 6,
+       "time": 19.994
+      }
+     ]
+    },
+    {
+     "pos": 7,
+     "carNum": 6,
+     "driverName": "ASAF GOREVICH",
+     "driverSlug": "asaf-gorevich",
+     "qual": 6,
+     "lapsCompleted": 17,
+     "totalTime": "6:11.178",
+     "behind": "0.711",
+     "fastLap": 19.81717,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 60.3561,
+     "stdDev": 2.24,
+     "consistency": 89.87,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 6,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 5,
+       "time": 17.207
+      },
+      {
+       "lap": 2,
+       "pos": 5,
+       "time": 24.446
+      },
+      {
+       "lap": 3,
+       "pos": 6,
+       "time": 25.262
+      },
+      {
+       "lap": 4,
+       "pos": 6,
+       "time": 20.531
+      },
+      {
+       "lap": 5,
+       "pos": 7,
+       "time": 23.088
+      },
+      {
+       "lap": 6,
+       "pos": 7,
+       "time": 21.064
+      },
+      {
+       "lap": 7,
+       "pos": 7,
+       "time": 26.09
+      },
+      {
+       "lap": 8,
+       "pos": 7,
+       "time": 20.591
+      },
+      {
+       "lap": 9,
+       "pos": 7,
+       "time": 21.746
+      },
+      {
+       "lap": 10,
+       "pos": 8,
+       "time": 26.955
+      },
+      {
+       "lap": 11,
+       "pos": 7,
+       "time": 20.11
+      },
+      {
+       "lap": 12,
+       "pos": 7,
+       "time": 20.801
+      },
+      {
+       "lap": 13,
+       "pos": 8,
+       "time": 21.567
+      },
+      {
+       "lap": 14,
+       "pos": 7,
+       "time": 21.364
+      },
+      {
+       "lap": 15,
+       "pos": 7,
+       "time": 20.233
+      },
+      {
+       "lap": 16,
+       "pos": 7,
+       "time": 20.306
+      },
+      {
+       "lap": 17,
+       "pos": 7,
+       "time": 19.817
+      }
+     ]
+    },
+    {
+     "pos": 8,
+     "carNum": 2,
+     "driverName": "PAUL PRICE",
+     "driverSlug": "paul-price",
+     "qual": 2,
+     "lapsCompleted": 13,
+     "totalTime": "4:48.610",
+     "behind": "4 Laps",
+     "fastLap": 20.07512,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 64.1151,
+     "stdDev": 1.9,
+     "consistency": 91.45,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 2,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 7,
+       "time": 21.672
+      },
+      {
+       "lap": 2,
+       "pos": 6,
+       "time": 20.45
+      },
+      {
+       "lap": 3,
+       "pos": 7,
+       "time": 25.16
+      },
+      {
+       "lap": 4,
+       "pos": 7,
+       "time": 20.722
+      },
+      {
+       "lap": 5,
+       "pos": 8,
+       "time": 25.224
+      },
+      {
+       "lap": 6,
+       "pos": 8,
+       "time": 23.577
+      },
+      {
+       "lap": 7,
+       "pos": 8,
+       "time": 23.099
+      },
+      {
+       "lap": 8,
+       "pos": 8,
+       "time": 20.219
+      },
+      {
+       "lap": 9,
+       "pos": 8,
+       "time": 23.153
+      },
+      {
+       "lap": 10,
+       "pos": 7,
+       "time": 20.743
+      },
+      {
+       "lap": 11,
+       "pos": 8,
+       "time": 24
+      },
+      {
+       "lap": 12,
+       "pos": 8,
+       "time": 20.075
+      },
+      {
+       "lap": 13,
+       "pos": 7,
+       "time": 20.516
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1181557,
+   "raceNum": 3,
+   "name": "B3-Main",
+   "className": "1/10 Electric 2wd",
+   "round": "Main Events",
+   "completedAt": "2018-02-16T09:17:00.000Z",
+   "results": [
+    {
+     "pos": 1,
+     "carNum": 2,
+     "driverName": "ALON SHUALI",
+     "driverSlug": "alon-shuali",
+     "qual": 2,
+     "lapsCompleted": 17,
+     "totalTime": "6:08.981",
+     "behind": "",
+     "fastLap": 21.3406,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 65.0261,
+     "stdDev": 0.66,
+     "consistency": 97.02,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 2,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 2,
+       "time": 14.873
+      },
+      {
+       "lap": 2,
+       "pos": 2,
+       "time": 21.827
+      },
+      {
+       "lap": 3,
+       "pos": 1,
+       "time": 21.774
+      },
+      {
+       "lap": 4,
+       "pos": 1,
+       "time": 21.629
+      },
+      {
+       "lap": 5,
+       "pos": 1,
+       "time": 22.31
+      },
+      {
+       "lap": 6,
+       "pos": 1,
+       "time": 21.34
+      },
+      {
+       "lap": 7,
+       "pos": 1,
+       "time": 21.889
+      },
+      {
+       "lap": 8,
+       "pos": 1,
+       "time": 21.797
+      },
+      {
+       "lap": 9,
+       "pos": 1,
+       "time": 22.269
+      },
+      {
+       "lap": 10,
+       "pos": 1,
+       "time": 22.046
+      },
+      {
+       "lap": 11,
+       "pos": 1,
+       "time": 21.449
+      },
+      {
+       "lap": 12,
+       "pos": 1,
+       "time": 21.901
+      },
+      {
+       "lap": 13,
+       "pos": 1,
+       "time": 22.26
+      },
+      {
+       "lap": 14,
+       "pos": 1,
+       "time": 22.437
+      },
+      {
+       "lap": 15,
+       "pos": 1,
+       "time": 22.293
+      },
+      {
+       "lap": 16,
+       "pos": 1,
+       "time": 24.322
+      },
+      {
+       "lap": 17,
+       "pos": 1,
+       "time": 22.565
+      }
+     ]
+    },
+    {
+     "pos": 2,
+     "carNum": 1,
+     "driverName": "ERAN KAVE",
+     "driverSlug": "eran-kave",
+     "qual": 1,
+     "lapsCompleted": 17,
+     "totalTime": "6:17.036",
+     "behind": "8.055",
+     "fastLap": 21.3802,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 65.1881,
+     "stdDev": 1.18,
+     "consistency": 94.78,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 1,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 1,
+       "time": 14.235
+      },
+      {
+       "lap": 2,
+       "pos": 1,
+       "time": 21.38
+      },
+      {
+       "lap": 3,
+       "pos": 2,
+       "time": 24.602
+      },
+      {
+       "lap": 4,
+       "pos": 2,
+       "time": 22.863
+      },
+      {
+       "lap": 5,
+       "pos": 2,
+       "time": 21.675
+      },
+      {
+       "lap": 6,
+       "pos": 2,
+       "time": 21.695
+      },
+      {
+       "lap": 7,
+       "pos": 2,
+       "time": 21.818
+      },
+      {
+       "lap": 8,
+       "pos": 2,
+       "time": 21.937
+      },
+      {
+       "lap": 9,
+       "pos": 2,
+       "time": 25.696
+      },
+      {
+       "lap": 10,
+       "pos": 2,
+       "time": 22.643
+      },
+      {
+       "lap": 11,
+       "pos": 2,
+       "time": 21.505
+      },
+      {
+       "lap": 12,
+       "pos": 2,
+       "time": 23.934
+      },
+      {
+       "lap": 13,
+       "pos": 2,
+       "time": 22.132
+      },
+      {
+       "lap": 14,
+       "pos": 2,
+       "time": 22.32
+      },
+      {
+       "lap": 15,
+       "pos": 2,
+       "time": 22.369
+      },
+      {
+       "lap": 16,
+       "pos": 2,
+       "time": 22.493
+      },
+      {
+       "lap": 17,
+       "pos": 2,
+       "time": 23.739
+      }
+     ]
+    },
+    {
+     "pos": 3,
+     "carNum": 4,
+     "driverName": "YOGEV MACHLOOF",
+     "driverSlug": "yogev-machloof",
+     "qual": 4,
+     "lapsCompleted": 16,
+     "totalTime": "6:02.018",
+     "behind": "1 Lap",
+     "fastLap": 20.9744,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 64.3551,
+     "stdDev": 2.05,
+     "consistency": 91.14,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 4,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 4,
+       "time": 15.669
+      },
+      {
+       "lap": 2,
+       "pos": 4,
+       "time": 29.555
+      },
+      {
+       "lap": 3,
+       "pos": 3,
+       "time": 21.141
+      },
+      {
+       "lap": 4,
+       "pos": 3,
+       "time": 20.974
+      },
+      {
+       "lap": 5,
+       "pos": 3,
+       "time": 22.24
+      },
+      {
+       "lap": 6,
+       "pos": 3,
+       "time": 22.446
+      },
+      {
+       "lap": 7,
+       "pos": 3,
+       "time": 22.144
+      },
+      {
+       "lap": 8,
+       "pos": 3,
+       "time": 23.057
+      },
+      {
+       "lap": 9,
+       "pos": 3,
+       "time": 25.433
+      },
+      {
+       "lap": 10,
+       "pos": 3,
+       "time": 23.086
+      },
+      {
+       "lap": 11,
+       "pos": 3,
+       "time": 24.392
+      },
+      {
+       "lap": 12,
+       "pos": 3,
+       "time": 23.217
+      },
+      {
+       "lap": 13,
+       "pos": 3,
+       "time": 22.197
+      },
+      {
+       "lap": 14,
+       "pos": 3,
+       "time": 22.121
+      },
+      {
+       "lap": 15,
+       "pos": 3,
+       "time": 22.087
+      },
+      {
+       "lap": 16,
+       "pos": 3,
+       "time": 22.259
+      }
+     ]
+    },
+    {
+     "pos": 4,
+     "carNum": 3,
+     "driverName": "URIEL ZNATY",
+     "driverSlug": "uriel-znaty",
+     "qual": 3,
+     "lapsCompleted": 16,
+     "totalTime": "6:10.300",
+     "behind": "8.282",
+     "fastLap": 21.2731,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 65.2731,
+     "stdDev": 2.03,
+     "consistency": 91.43,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 3,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 3,
+       "time": 15.193
+      },
+      {
+       "lap": 2,
+       "pos": 3,
+       "time": 28.196
+      },
+      {
+       "lap": 3,
+       "pos": 4,
+       "time": 23.492
+      },
+      {
+       "lap": 4,
+       "pos": 4,
+       "time": 25.326
+      },
+      {
+       "lap": 5,
+       "pos": 4,
+       "time": 23.509
+      },
+      {
+       "lap": 6,
+       "pos": 4,
+       "time": 23.213
+      },
+      {
+       "lap": 7,
+       "pos": 4,
+       "time": 22.841
+      },
+      {
+       "lap": 8,
+       "pos": 4,
+       "time": 21.58
+      },
+      {
+       "lap": 9,
+       "pos": 4,
+       "time": 22.42
+      },
+      {
+       "lap": 10,
+       "pos": 4,
+       "time": 21.273
+      },
+      {
+       "lap": 11,
+       "pos": 4,
+       "time": 23.575
+      },
+      {
+       "lap": 12,
+       "pos": 4,
+       "time": 26.543
+      },
+      {
+       "lap": 13,
+       "pos": 4,
+       "time": 26.665
+      },
+      {
+       "lap": 14,
+       "pos": 4,
+       "time": 21.468
+      },
+      {
+       "lap": 15,
+       "pos": 4,
+       "time": 21.775
+      },
+      {
+       "lap": 16,
+       "pos": 4,
+       "time": 23.231
+      }
+     ]
+    },
+    {
+     "pos": 5,
+     "carNum": 5,
+     "driverName": "HAREL SENDEROV",
+     "driverSlug": "harel-senderov",
+     "qual": 5,
+     "lapsCompleted": 0,
+     "totalTime": "",
+     "behind": "16 Laps",
+     "fastLap": null,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": null,
+     "stdDev": null,
+     "consistency": null,
+     "laps": []
+    }
+   ]
+  },
+  {
+   "id": 1181556,
+   "raceNum": 2,
+   "name": "B2-Main",
+   "className": "1/10 Electric 2wd",
+   "round": "Main Events",
+   "completedAt": "2018-02-16T08:52:00.000Z",
+   "results": [
+    {
+     "pos": 1,
+     "carNum": 2,
+     "driverName": "ALON SHUALI",
+     "driverSlug": "alon-shuali",
+     "qual": 2,
+     "lapsCompleted": 17,
+     "totalTime": "6:04.753",
+     "behind": "",
+     "fastLap": 20.92713,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 63.4541,
+     "stdDev": 0.53,
+     "consistency": 97.57,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 2,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 2,
+       "time": 15.428
+      },
+      {
+       "lap": 2,
+       "pos": 1,
+       "time": 21.707
+      },
+      {
+       "lap": 3,
+       "pos": 1,
+       "time": 22.379
+      },
+      {
+       "lap": 4,
+       "pos": 1,
+       "time": 21.989
+      },
+      {
+       "lap": 5,
+       "pos": 1,
+       "time": 21.854
+      },
+      {
+       "lap": 6,
+       "pos": 1,
+       "time": 22.181
+      },
+      {
+       "lap": 7,
+       "pos": 1,
+       "time": 21.486
+      },
+      {
+       "lap": 8,
+       "pos": 1,
+       "time": 23.168
+      },
+      {
+       "lap": 9,
+       "pos": 1,
+       "time": 21.614
+      },
+      {
+       "lap": 10,
+       "pos": 1,
+       "time": 21.795
+      },
+      {
+       "lap": 11,
+       "pos": 1,
+       "time": 22.222
+      },
+      {
+       "lap": 12,
+       "pos": 1,
+       "time": 21.045
+      },
+      {
+       "lap": 13,
+       "pos": 1,
+       "time": 20.927
+      },
+      {
+       "lap": 14,
+       "pos": 1,
+       "time": 21.482
+      },
+      {
+       "lap": 15,
+       "pos": 1,
+       "time": 22.332
+      },
+      {
+       "lap": 16,
+       "pos": 1,
+       "time": 21.613
+      },
+      {
+       "lap": 17,
+       "pos": 1,
+       "time": 21.531
+      }
+     ]
+    },
+    {
+     "pos": 2,
+     "carNum": 4,
+     "driverName": "YOGEV MACHLOOF",
+     "driverSlug": "yogev-machloof",
+     "qual": 4,
+     "lapsCompleted": 17,
+     "totalTime": "6:08.926",
+     "behind": "4.173",
+     "fastLap": 21.04113,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 64.1381,
+     "stdDev": 0.65,
+     "consistency": 97.03,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 4,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 4,
+       "time": 16.564
+      },
+      {
+       "lap": 2,
+       "pos": 3,
+       "time": 22.305
+      },
+      {
+       "lap": 3,
+       "pos": 3,
+       "time": 24.068
+      },
+      {
+       "lap": 4,
+       "pos": 3,
+       "time": 21.856
+      },
+      {
+       "lap": 5,
+       "pos": 3,
+       "time": 22.36
+      },
+      {
+       "lap": 6,
+       "pos": 3,
+       "time": 21.686
+      },
+      {
+       "lap": 7,
+       "pos": 3,
+       "time": 22.044
+      },
+      {
+       "lap": 8,
+       "pos": 3,
+       "time": 22.555
+      },
+      {
+       "lap": 9,
+       "pos": 3,
+       "time": 21.89
+      },
+      {
+       "lap": 10,
+       "pos": 3,
+       "time": 21.814
+      },
+      {
+       "lap": 11,
+       "pos": 3,
+       "time": 21.814
+      },
+      {
+       "lap": 12,
+       "pos": 3,
+       "time": 21.283
+      },
+      {
+       "lap": 13,
+       "pos": 3,
+       "time": 21.041
+      },
+      {
+       "lap": 14,
+       "pos": 2,
+       "time": 22.239
+      },
+      {
+       "lap": 15,
+       "pos": 2,
+       "time": 21.764
+      },
+      {
+       "lap": 16,
+       "pos": 2,
+       "time": 22.159
+      },
+      {
+       "lap": 17,
+       "pos": 2,
+       "time": 21.484
+      }
+     ]
+    },
+    {
+     "pos": 3,
+     "carNum": 3,
+     "driverName": "URIEL ZNATY",
+     "driverSlug": "uriel-znaty",
+     "qual": 3,
+     "lapsCompleted": 17,
+     "totalTime": "6:16.041",
+     "behind": "7.115",
+     "fastLap": 20.86312,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 64.4751,
+     "stdDev": 1.35,
+     "consistency": 94.02,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 3,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 3,
+       "time": 15.846
+      },
+      {
+       "lap": 2,
+       "pos": 2,
+       "time": 22.392
+      },
+      {
+       "lap": 3,
+       "pos": 2,
+       "time": 22.499
+      },
+      {
+       "lap": 4,
+       "pos": 2,
+       "time": 22.423
+      },
+      {
+       "lap": 5,
+       "pos": 2,
+       "time": 22.758
+      },
+      {
+       "lap": 6,
+       "pos": 2,
+       "time": 21.99
+      },
+      {
+       "lap": 7,
+       "pos": 2,
+       "time": 21.846
+      },
+      {
+       "lap": 8,
+       "pos": 2,
+       "time": 22.292
+      },
+      {
+       "lap": 9,
+       "pos": 2,
+       "time": 21.969
+      },
+      {
+       "lap": 10,
+       "pos": 2,
+       "time": 21.833
+      },
+      {
+       "lap": 11,
+       "pos": 2,
+       "time": 21.779
+      },
+      {
+       "lap": 12,
+       "pos": 2,
+       "time": 20.863
+      },
+      {
+       "lap": 13,
+       "pos": 2,
+       "time": 22.132
+      },
+      {
+       "lap": 14,
+       "pos": 3,
+       "time": 25.959
+      },
+      {
+       "lap": 15,
+       "pos": 3,
+       "time": 21.517
+      },
+      {
+       "lap": 16,
+       "pos": 3,
+       "time": 25.822
+      },
+      {
+       "lap": 17,
+       "pos": 3,
+       "time": 22.121
+      }
+     ]
+    },
+    {
+     "pos": 4,
+     "carNum": 1,
+     "driverName": "ERAN KAVE",
+     "driverSlug": "eran-kave",
+     "qual": 1,
+     "lapsCompleted": 17,
+     "totalTime": "6:25.433",
+     "behind": "9.392",
+     "fastLap": 20.6019,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 63.4911,
+     "stdDev": 2.18,
+     "consistency": 90.6,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 1,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 1,
+       "time": 14.76
+      },
+      {
+       "lap": 2,
+       "pos": 4,
+       "time": 24.858
+      },
+      {
+       "lap": 3,
+       "pos": 5,
+       "time": 29.63
+      },
+      {
+       "lap": 4,
+       "pos": 4,
+       "time": 22.355
+      },
+      {
+       "lap": 5,
+       "pos": 4,
+       "time": 22.056
+      },
+      {
+       "lap": 6,
+       "pos": 4,
+       "time": 22.251
+      },
+      {
+       "lap": 7,
+       "pos": 4,
+       "time": 22.358
+      },
+      {
+       "lap": 8,
+       "pos": 4,
+       "time": 21.626
+      },
+      {
+       "lap": 9,
+       "pos": 4,
+       "time": 20.601
+      },
+      {
+       "lap": 10,
+       "pos": 4,
+       "time": 21.264
+      },
+      {
+       "lap": 11,
+       "pos": 4,
+       "time": 21.715
+      },
+      {
+       "lap": 12,
+       "pos": 4,
+       "time": 24.534
+      },
+      {
+       "lap": 13,
+       "pos": 4,
+       "time": 21.838
+      },
+      {
+       "lap": 14,
+       "pos": 4,
+       "time": 23.237
+      },
+      {
+       "lap": 15,
+       "pos": 4,
+       "time": 24.451
+      },
+      {
+       "lap": 16,
+       "pos": 4,
+       "time": 22.116
+      },
+      {
+       "lap": 17,
+       "pos": 4,
+       "time": 25.783
+      }
+     ]
+    },
+    {
+     "pos": 5,
+     "carNum": 5,
+     "driverName": "HAREL SENDEROV",
+     "driverSlug": "harel-senderov",
+     "qual": 5,
+     "lapsCompleted": 14,
+     "totalTime": "6:10.827",
+     "behind": "3 Laps",
+     "fastLap": 21.83711,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 67.0381,
+     "stdDev": 4,
+     "consistency": 85.17,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 5,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 5,
+       "time": 20.483
+      },
+      {
+       "lap": 2,
+       "pos": 5,
+       "time": 24.525
+      },
+      {
+       "lap": 3,
+       "pos": 4,
+       "time": 24.085
+      },
+      {
+       "lap": 4,
+       "pos": 5,
+       "time": 31.119
+      },
+      {
+       "lap": 5,
+       "pos": 5,
+       "time": 28.934
+      },
+      {
+       "lap": 6,
+       "pos": 5,
+       "time": 26.455
+      },
+      {
+       "lap": 7,
+       "pos": 5,
+       "time": 31.761
+      },
+      {
+       "lap": 8,
+       "pos": 5,
+       "time": 22.125
+      },
+      {
+       "lap": 9,
+       "pos": 5,
+       "time": 30.569
+      },
+      {
+       "lap": 10,
+       "pos": 5,
+       "time": 31.865
+      },
+      {
+       "lap": 11,
+       "pos": 5,
+       "time": 21.837
+      },
+      {
+       "lap": 12,
+       "pos": 5,
+       "time": 22.83
+      },
+      {
+       "lap": 13,
+       "pos": 5,
+       "time": 22.371
+      },
+      {
+       "lap": 14,
+       "pos": 5,
+       "time": 31.868
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1181555,
+   "raceNum": 1,
+   "name": "B1-Main",
+   "className": "1/10 Electric 2wd",
+   "round": "Main Events",
+   "completedAt": "2018-02-16T08:30:00.000Z",
+   "results": [
+    {
+     "pos": 1,
+     "carNum": 2,
+     "driverName": "ALON SHUALI",
+     "driverSlug": "alon-shuali",
+     "qual": 2,
+     "lapsCompleted": 17,
+     "totalTime": "6:09.227",
+     "behind": "",
+     "fastLap": 21.42517,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 65.3531,
+     "stdDev": 0.7,
+     "consistency": 96.82,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 2,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 1,
+       "time": 15.262
+      },
+      {
+       "lap": 2,
+       "pos": 1,
+       "time": 22.179
+      },
+      {
+       "lap": 3,
+       "pos": 1,
+       "time": 21.874
+      },
+      {
+       "lap": 4,
+       "pos": 1,
+       "time": 22.021
+      },
+      {
+       "lap": 5,
+       "pos": 1,
+       "time": 22.472
+      },
+      {
+       "lap": 6,
+       "pos": 1,
+       "time": 21.778
+      },
+      {
+       "lap": 7,
+       "pos": 1,
+       "time": 21.493
+      },
+      {
+       "lap": 8,
+       "pos": 1,
+       "time": 22.8
+      },
+      {
+       "lap": 9,
+       "pos": 1,
+       "time": 21.665
+      },
+      {
+       "lap": 10,
+       "pos": 1,
+       "time": 22.279
+      },
+      {
+       "lap": 11,
+       "pos": 1,
+       "time": 24.428
+      },
+      {
+       "lap": 12,
+       "pos": 1,
+       "time": 21.895
+      },
+      {
+       "lap": 13,
+       "pos": 1,
+       "time": 22.07
+      },
+      {
+       "lap": 14,
+       "pos": 1,
+       "time": 21.658
+      },
+      {
+       "lap": 15,
+       "pos": 1,
+       "time": 22.405
+      },
+      {
+       "lap": 16,
+       "pos": 1,
+       "time": 21.523
+      },
+      {
+       "lap": 17,
+       "pos": 1,
+       "time": 21.425
+      }
+     ]
+    },
+    {
+     "pos": 2,
+     "carNum": 1,
+     "driverName": "ERAN KAVE",
+     "driverSlug": "eran-kave",
+     "qual": 1,
+     "lapsCompleted": 17,
+     "totalTime": "6:23.473",
+     "behind": "14.246",
+     "fastLap": 21.0157,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 64.1011,
+     "stdDev": 2.04,
+     "consistency": 91.01,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 1,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 5,
+       "time": 19.748
+      },
+      {
+       "lap": 2,
+       "pos": 4,
+       "time": 23.769
+      },
+      {
+       "lap": 3,
+       "pos": 4,
+       "time": 21.569
+      },
+      {
+       "lap": 4,
+       "pos": 4,
+       "time": 21.045
+      },
+      {
+       "lap": 5,
+       "pos": 4,
+       "time": 22.089
+      },
+      {
+       "lap": 6,
+       "pos": 4,
+       "time": 21.219
+      },
+      {
+       "lap": 7,
+       "pos": 3,
+       "time": 21.015
+      },
+      {
+       "lap": 8,
+       "pos": 3,
+       "time": 25.665
+      },
+      {
+       "lap": 9,
+       "pos": 3,
+       "time": 26.085
+      },
+      {
+       "lap": 10,
+       "pos": 3,
+       "time": 21.402
+      },
+      {
+       "lap": 11,
+       "pos": 3,
+       "time": 21.205
+      },
+      {
+       "lap": 12,
+       "pos": 3,
+       "time": 21.494
+      },
+      {
+       "lap": 13,
+       "pos": 3,
+       "time": 21.596
+      },
+      {
+       "lap": 14,
+       "pos": 3,
+       "time": 22.367
+      },
+      {
+       "lap": 15,
+       "pos": 3,
+       "time": 22.163
+      },
+      {
+       "lap": 16,
+       "pos": 3,
+       "time": 28.085
+      },
+      {
+       "lap": 17,
+       "pos": 2,
+       "time": 22.957
+      }
+     ]
+    },
+    {
+     "pos": 3,
+     "carNum": 4,
+     "driverName": "YOGEV MACHLOOF",
+     "driverSlug": "yogev-machloof",
+     "qual": 4,
+     "lapsCompleted": 17,
+     "totalTime": "6:26.284",
+     "behind": "2.811",
+     "fastLap": 20.8045,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 65.3591,
+     "stdDev": 1.97,
+     "consistency": 91.42,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 4,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 3,
+       "time": 18.393
+      },
+      {
+       "lap": 2,
+       "pos": 3,
+       "time": 22.294
+      },
+      {
+       "lap": 3,
+       "pos": 3,
+       "time": 22.93
+      },
+      {
+       "lap": 4,
+       "pos": 3,
+       "time": 22.077
+      },
+      {
+       "lap": 5,
+       "pos": 3,
+       "time": 20.804
+      },
+      {
+       "lap": 6,
+       "pos": 3,
+       "time": 22.478
+      },
+      {
+       "lap": 7,
+       "pos": 4,
+       "time": 26.138
+      },
+      {
+       "lap": 8,
+       "pos": 4,
+       "time": 21.637
+      },
+      {
+       "lap": 9,
+       "pos": 2,
+       "time": 21.076
+      },
+      {
+       "lap": 10,
+       "pos": 2,
+       "time": 23.752
+      },
+      {
+       "lap": 11,
+       "pos": 2,
+       "time": 21.652
+      },
+      {
+       "lap": 12,
+       "pos": 2,
+       "time": 22.047
+      },
+      {
+       "lap": 13,
+       "pos": 2,
+       "time": 22.005
+      },
+      {
+       "lap": 14,
+       "pos": 2,
+       "time": 22.028
+      },
+      {
+       "lap": 15,
+       "pos": 2,
+       "time": 22.62
+      },
+      {
+       "lap": 16,
+       "pos": 2,
+       "time": 27.503
+      },
+      {
+       "lap": 17,
+       "pos": 3,
+       "time": 26.85
+      }
+     ]
+    },
+    {
+     "pos": 4,
+     "carNum": 3,
+     "driverName": "URIEL ZNATY",
+     "driverSlug": "uriel-znaty",
+     "qual": 3,
+     "lapsCompleted": 16,
+     "totalTime": "6:15.606",
+     "behind": "1 Lap",
+     "fastLap": 21.09015,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 65.1991,
+     "stdDev": 2.63,
+     "consistency": 88.98,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 3,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 2,
+       "time": 17.009
+      },
+      {
+       "lap": 2,
+       "pos": 2,
+       "time": 22.799
+      },
+      {
+       "lap": 3,
+       "pos": 2,
+       "time": 22.538
+      },
+      {
+       "lap": 4,
+       "pos": 2,
+       "time": 21.621
+      },
+      {
+       "lap": 5,
+       "pos": 2,
+       "time": 21.837
+      },
+      {
+       "lap": 6,
+       "pos": 2,
+       "time": 21.741
+      },
+      {
+       "lap": 7,
+       "pos": 2,
+       "time": 22.55
+      },
+      {
+       "lap": 8,
+       "pos": 2,
+       "time": 24.888
+      },
+      {
+       "lap": 9,
+       "pos": 4,
+       "time": 27.805
+      },
+      {
+       "lap": 10,
+       "pos": 4,
+       "time": 29.023
+      },
+      {
+       "lap": 11,
+       "pos": 4,
+       "time": 23.677
+      },
+      {
+       "lap": 12,
+       "pos": 4,
+       "time": 21.498
+      },
+      {
+       "lap": 13,
+       "pos": 4,
+       "time": 22.426
+      },
+      {
+       "lap": 14,
+       "pos": 4,
+       "time": 27.673
+      },
+      {
+       "lap": 15,
+       "pos": 4,
+       "time": 21.09
+      },
+      {
+       "lap": 16,
+       "pos": 4,
+       "time": 27.431
+      }
+     ]
+    },
+    {
+     "pos": 5,
+     "carNum": 5,
+     "driverName": "HAREL SENDEROV",
+     "driverSlug": "harel-senderov",
+     "qual": 5,
+     "lapsCompleted": 14,
+     "totalTime": "6:02.830",
+     "behind": "2 Laps",
+     "fastLap": 22.98214,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 73.4041,
+     "stdDev": 2.49,
+     "consistency": 90.59,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 5,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 4,
+       "time": 19.448
+      },
+      {
+       "lap": 2,
+       "pos": 5,
+       "time": 24.538
+      },
+      {
+       "lap": 3,
+       "pos": 5,
+       "time": 25.571
+      },
+      {
+       "lap": 4,
+       "pos": 5,
+       "time": 24.986
+      },
+      {
+       "lap": 5,
+       "pos": 5,
+       "time": 28.749
+      },
+      {
+       "lap": 6,
+       "pos": 5,
+       "time": 29.274
+      },
+      {
+       "lap": 7,
+       "pos": 5,
+       "time": 31.352
+      },
+      {
+       "lap": 8,
+       "pos": 5,
+       "time": 26.241
+      },
+      {
+       "lap": 9,
+       "pos": 5,
+       "time": 23.972
+      },
+      {
+       "lap": 10,
+       "pos": 5,
+       "time": 23.191
+      },
+      {
+       "lap": 11,
+       "pos": 5,
+       "time": 29.169
+      },
+      {
+       "lap": 12,
+       "pos": 5,
+       "time": 26.489
+      },
+      {
+       "lap": 13,
+       "pos": 5,
+       "time": 26.868
+      },
+      {
+       "lap": 14,
+       "pos": 5,
+       "time": 22.982
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1181001,
+   "raceNum": 6,
+   "name": "Heat 4/5",
+   "className": "1/10 Electric 4wd",
+   "round": "Practice Round 1",
+   "completedAt": "2018-02-16T10:28:00.000Z",
+   "results": [
+    {
+     "pos": 1,
+     "carNum": 5,
+     "driverName": "GUY RINKEVICH",
+     "driverSlug": "guy-rinkevich",
+     "qual": 4,
+     "lapsCompleted": 16,
+     "totalTime": "5:15.238",
+     "behind": "",
+     "fastLap": 18.70213,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": null,
+     "stdDev": 0.79,
+     "consistency": 96,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 4,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 1,
+       "time": 19.525
+      },
+      {
+       "lap": 2,
+       "pos": 1,
+       "time": 19.705
+      },
+      {
+       "lap": 3,
+       "pos": 2,
+       "time": 20.421
+      },
+      {
+       "lap": 4,
+       "pos": 2,
+       "time": 19.696
+      },
+      {
+       "lap": 5,
+       "pos": 2,
+       "time": 19.551
+      },
+      {
+       "lap": 6,
+       "pos": 1,
+       "time": 19.55
+      },
+      {
+       "lap": 7,
+       "pos": 2,
+       "time": 22.352
+      },
+      {
+       "lap": 8,
+       "pos": 2,
+       "time": 19.303
+      },
+      {
+       "lap": 9,
+       "pos": 2,
+       "time": 19.175
+      },
+      {
+       "lap": 10,
+       "pos": 2,
+       "time": 19.541
+      },
+      {
+       "lap": 11,
+       "pos": 2,
+       "time": 19.27
+      },
+      {
+       "lap": 12,
+       "pos": 2,
+       "time": 19.527
+      },
+      {
+       "lap": 13,
+       "pos": 2,
+       "time": 18.702
+      },
+      {
+       "lap": 14,
+       "pos": 1,
+       "time": 20.254
+      },
+      {
+       "lap": 15,
+       "pos": 1,
+       "time": 19.145
+      },
+      {
+       "lap": 16,
+       "pos": 1,
+       "time": 19.521
+      }
+     ]
+    },
+    {
+     "pos": 2,
+     "carNum": 10,
+     "driverName": "TAL SILES",
+     "driverSlug": "tal-siles",
+     "qual": 1,
+     "lapsCompleted": 16,
+     "totalTime": "5:16.077",
+     "behind": "0.839",
+     "fastLap": 18.4775,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": null,
+     "stdDev": 1.6,
+     "consistency": 91.9,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 1,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 3,
+       "time": 19.957
+      },
+      {
+       "lap": 2,
+       "pos": 2,
+       "time": 19.415
+      },
+      {
+       "lap": 3,
+       "pos": 1,
+       "time": 18.841
+      },
+      {
+       "lap": 4,
+       "pos": 1,
+       "time": 18.877
+      },
+      {
+       "lap": 5,
+       "pos": 1,
+       "time": 18.477
+      },
+      {
+       "lap": 6,
+       "pos": 2,
+       "time": 24.659
+      },
+      {
+       "lap": 7,
+       "pos": 1,
+       "time": 19.14
+      },
+      {
+       "lap": 8,
+       "pos": 1,
+       "time": 19.062
+      },
+      {
+       "lap": 9,
+       "pos": 1,
+       "time": 18.991
+      },
+      {
+       "lap": 10,
+       "pos": 1,
+       "time": 19.423
+      },
+      {
+       "lap": 11,
+       "pos": 1,
+       "time": 18.755
+      },
+      {
+       "lap": 12,
+       "pos": 1,
+       "time": 18.947
+      },
+      {
+       "lap": 13,
+       "pos": 1,
+       "time": 19.446
+      },
+      {
+       "lap": 14,
+       "pos": 2,
+       "time": 22.936
+      },
+      {
+       "lap": 15,
+       "pos": 2,
+       "time": 19.758
+      },
+      {
+       "lap": 16,
+       "pos": 2,
+       "time": 19.393
+      }
+     ]
+    },
+    {
+     "pos": 3,
+     "carNum": 8,
+     "driverName": "ALON SHUALI",
+     "driverSlug": "alon-shuali",
+     "qual": 5,
+     "lapsCompleted": 14,
+     "totalTime": "5:00.128",
+     "behind": "2 Laps",
+     "fastLap": 19.8571,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 60.6881,
+     "stdDev": 2.08,
+     "consistency": 90.3,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 5,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 2,
+       "time": 19.857
+      },
+      {
+       "lap": 2,
+       "pos": 4,
+       "time": 20.934
+      },
+      {
+       "lap": 3,
+       "pos": 3,
+       "time": 19.897
+      },
+      {
+       "lap": 4,
+       "pos": 6,
+       "time": 27.215
+      },
+      {
+       "lap": 5,
+       "pos": 6,
+       "time": 22.276
+      },
+      {
+       "lap": 6,
+       "pos": 5,
+       "time": 20.304
+      },
+      {
+       "lap": 7,
+       "pos": 4,
+       "time": 20.265
+      },
+      {
+       "lap": 8,
+       "pos": 5,
+       "time": 25.055
+      },
+      {
+       "lap": 9,
+       "pos": 6,
+       "time": 21.145
+      },
+      {
+       "lap": 10,
+       "pos": 5,
+       "time": 20.413
+      },
+      {
+       "lap": 11,
+       "pos": 4,
+       "time": 21.35
+      },
+      {
+       "lap": 12,
+       "pos": 3,
+       "time": 21.532
+      },
+      {
+       "lap": 13,
+       "pos": 3,
+       "time": 19.924
+      },
+      {
+       "lap": 14,
+       "pos": 3,
+       "time": 19.961
+      }
+     ]
+    },
+    {
+     "pos": 4,
+     "carNum": 13,
+     "driverName": "URIEL ZNATY",
+     "driverSlug": "uriel-znaty",
+     "qual": 2,
+     "lapsCompleted": 14,
+     "totalTime": "5:09.296",
+     "behind": "9.168",
+     "fastLap": 20.0746,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 62.1281,
+     "stdDev": 1.79,
+     "consistency": 91.91,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 2,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 5,
+       "time": 21.128
+      },
+      {
+       "lap": 2,
+       "pos": 5,
+       "time": 22.723
+      },
+      {
+       "lap": 3,
+       "pos": 5,
+       "time": 20.806
+      },
+      {
+       "lap": 4,
+       "pos": 4,
+       "time": 20.284
+      },
+      {
+       "lap": 5,
+       "pos": 4,
+       "time": 24.822
+      },
+      {
+       "lap": 6,
+       "pos": 4,
+       "time": 20.074
+      },
+      {
+       "lap": 7,
+       "pos": 5,
+       "time": 21.527
+      },
+      {
+       "lap": 8,
+       "pos": 4,
+       "time": 20.527
+      },
+      {
+       "lap": 9,
+       "pos": 4,
+       "time": 22.068
+      },
+      {
+       "lap": 10,
+       "pos": 4,
+       "time": 21.224
+      },
+      {
+       "lap": 11,
+       "pos": 5,
+       "time": 24.135
+      },
+      {
+       "lap": 12,
+       "pos": 3,
+       "time": 20.925
+      },
+      {
+       "lap": 13,
+       "pos": 5,
+       "time": 26.261
+      },
+      {
+       "lap": 14,
+       "pos": 4,
+       "time": 22.792
+      }
+     ]
+    },
+    {
+     "pos": 5,
+     "carNum": 14,
+     "driverName": "ASAF GOREVICH",
+     "driverSlug": "asaf-gorevich",
+     "qual": 3,
+     "lapsCompleted": 14,
+     "totalTime": "5:10.416",
+     "behind": "1.120",
+     "fastLap": 19.4681,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 60.0191,
+     "stdDev": 3.21,
+     "consistency": 85.51,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 3,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 4,
+       "time": 20.489
+      },
+      {
+       "lap": 2,
+       "pos": 3,
+       "time": 20.033
+      },
+      {
+       "lap": 3,
+       "pos": 4,
+       "time": 21.459
+      },
+      {
+       "lap": 4,
+       "pos": 3,
+       "time": 20.568
+      },
+      {
+       "lap": 5,
+       "pos": 3,
+       "time": 20.088
+      },
+      {
+       "lap": 6,
+       "pos": 3,
+       "time": 20.726
+      },
+      {
+       "lap": 7,
+       "pos": 3,
+       "time": 19.95
+      },
+      {
+       "lap": 8,
+       "pos": 3,
+       "time": 20.158
+      },
+      {
+       "lap": 9,
+       "pos": 3,
+       "time": 20.393
+      },
+      {
+       "lap": 10,
+       "pos": 3,
+       "time": 19.468
+      },
+      {
+       "lap": 11,
+       "pos": 3,
+       "time": 30.302
+      },
+      {
+       "lap": 12,
+       "pos": 4,
+       "time": 27.711
+      },
+      {
+       "lap": 13,
+       "pos": 4,
+       "time": 24.179
+      },
+      {
+       "lap": 14,
+       "pos": 5,
+       "time": 24.892
+      }
+     ]
+    },
+    {
+     "pos": 6,
+     "carNum": 7,
+     "driverName": "IDAN ASRAF",
+     "driverSlug": "idan-asraf",
+     "qual": 6,
+     "lapsCompleted": 14,
+     "totalTime": "5:14.681",
+     "behind": "4.265",
+     "fastLap": 19.86813,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 62.5011,
+     "stdDev": 2.09,
+     "consistency": 90.69,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 6,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 6,
+       "time": 25.377
+      },
+      {
+       "lap": 2,
+       "pos": 6,
+       "time": 20.661
+      },
+      {
+       "lap": 3,
+       "pos": 6,
+       "time": 20.156
+      },
+      {
+       "lap": 4,
+       "pos": 5,
+       "time": 21.684
+      },
+      {
+       "lap": 5,
+       "pos": 5,
+       "time": 21.943
+      },
+      {
+       "lap": 6,
+       "pos": 6,
+       "time": 23.712
+      },
+      {
+       "lap": 7,
+       "pos": 6,
+       "time": 21.585
+      },
+      {
+       "lap": 8,
+       "pos": 6,
+       "time": 20.712
+      },
+      {
+       "lap": 9,
+       "pos": 5,
+       "time": 20.88
+      },
+      {
+       "lap": 10,
+       "pos": 6,
+       "time": 23.314
+      },
+      {
+       "lap": 11,
+       "pos": 6,
+       "time": 22.699
+      },
+      {
+       "lap": 12,
+       "pos": 5,
+       "time": 24.98
+      },
+      {
+       "lap": 13,
+       "pos": 6,
+       "time": 19.868
+      },
+      {
+       "lap": 14,
+       "pos": 6,
+       "time": 27.11
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1181000,
+   "raceNum": 5,
+   "name": "Heat 3/5",
+   "className": "1/10 Electric 4wd",
+   "round": "Practice Round 1",
+   "completedAt": "2018-02-16T10:19:00.000Z",
+   "results": [
+    {
+     "pos": 1,
+     "carNum": 1,
+     "driverName": "ARIE ITSKOVICH",
+     "driverSlug": "arie-itskovich",
+     "qual": 2,
+     "lapsCompleted": 15,
+     "totalTime": "5:12.770",
+     "behind": "",
+     "fastLap": 19.2713,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 60.1441,
+     "stdDev": 1.45,
+     "consistency": 93.04,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 2,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 1,
+       "time": 20.197
+      },
+      {
+       "lap": 2,
+       "pos": 1,
+       "time": 21.358
+      },
+      {
+       "lap": 3,
+       "pos": 1,
+       "time": 19.271
+      },
+      {
+       "lap": 4,
+       "pos": 1,
+       "time": 20.771
+      },
+      {
+       "lap": 5,
+       "pos": 1,
+       "time": 24.133
+      },
+      {
+       "lap": 6,
+       "pos": 1,
+       "time": 20.121
+      },
+      {
+       "lap": 7,
+       "pos": 1,
+       "time": 20.302
+      },
+      {
+       "lap": 8,
+       "pos": 1,
+       "time": 20.474
+      },
+      {
+       "lap": 9,
+       "pos": 1,
+       "time": 20.421
+      },
+      {
+       "lap": 10,
+       "pos": 1,
+       "time": 20.584
+      },
+      {
+       "lap": 11,
+       "pos": 1,
+       "time": 20.379
+      },
+      {
+       "lap": 12,
+       "pos": 1,
+       "time": 24.615
+      },
+      {
+       "lap": 13,
+       "pos": 1,
+       "time": 19.969
+      },
+      {
+       "lap": 14,
+       "pos": 1,
+       "time": 20.273
+      },
+      {
+       "lap": 15,
+       "pos": 1,
+       "time": 19.902
+      }
+     ]
+    },
+    {
+     "pos": 2,
+     "carNum": 9,
+     "driverName": "ERAN KAVE",
+     "driverSlug": "eran-kave",
+     "qual": 3,
+     "lapsCompleted": 14,
+     "totalTime": "5:09.138",
+     "behind": "1 Lap",
+     "fastLap": 20.3761,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 63.3751,
+     "stdDev": 1.42,
+     "consistency": 93.55,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 3,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 3,
+       "time": 25.478
+      },
+      {
+       "lap": 2,
+       "pos": 2,
+       "time": 21.789
+      },
+      {
+       "lap": 3,
+       "pos": 2,
+       "time": 21.947
+      },
+      {
+       "lap": 4,
+       "pos": 2,
+       "time": 22.846
+      },
+      {
+       "lap": 5,
+       "pos": 2,
+       "time": 21.739
+      },
+      {
+       "lap": 6,
+       "pos": 2,
+       "time": 21.103
+      },
+      {
+       "lap": 7,
+       "pos": 2,
+       "time": 20.953
+      },
+      {
+       "lap": 8,
+       "pos": 2,
+       "time": 22.468
+      },
+      {
+       "lap": 9,
+       "pos": 3,
+       "time": 24.752
+      },
+      {
+       "lap": 10,
+       "pos": 2,
+       "time": 20.376
+      },
+      {
+       "lap": 11,
+       "pos": 2,
+       "time": 22.312
+      },
+      {
+       "lap": 12,
+       "pos": 2,
+       "time": 21.86
+      },
+      {
+       "lap": 13,
+       "pos": 2,
+       "time": 20.647
+      },
+      {
+       "lap": 14,
+       "pos": 2,
+       "time": 20.868
+      }
+     ]
+    },
+    {
+     "pos": 3,
+     "carNum": 6,
+     "driverName": "ASI BITTON",
+     "driverSlug": "asi-bitton",
+     "qual": 1,
+     "lapsCompleted": 14,
+     "totalTime": "5:11.802",
+     "behind": "2.664",
+     "fastLap": 20.3515,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 63.7791,
+     "stdDev": 1.7,
+     "consistency": 92.38,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 1,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 2,
+       "time": 23.364
+      },
+      {
+       "lap": 2,
+       "pos": 3,
+       "time": 27.085
+      },
+      {
+       "lap": 3,
+       "pos": 3,
+       "time": 20.7
+      },
+      {
+       "lap": 4,
+       "pos": 3,
+       "time": 24.242
+      },
+      {
+       "lap": 5,
+       "pos": 3,
+       "time": 20.351
+      },
+      {
+       "lap": 6,
+       "pos": 3,
+       "time": 21.014
+      },
+      {
+       "lap": 7,
+       "pos": 3,
+       "time": 22.414
+      },
+      {
+       "lap": 8,
+       "pos": 3,
+       "time": 20.902
+      },
+      {
+       "lap": 9,
+       "pos": 2,
+       "time": 22.861
+      },
+      {
+       "lap": 10,
+       "pos": 3,
+       "time": 21.812
+      },
+      {
+       "lap": 11,
+       "pos": 3,
+       "time": 22.171
+      },
+      {
+       "lap": 12,
+       "pos": 3,
+       "time": 22.087
+      },
+      {
+       "lap": 13,
+       "pos": 3,
+       "time": 21.786
+      },
+      {
+       "lap": 14,
+       "pos": 3,
+       "time": 21.013
+      }
+     ]
+    },
+    {
+     "pos": 4,
+     "carNum": 4,
+     "driverName": "HAREL SENDEROV",
+     "driverSlug": "harel-senderov",
+     "qual": 5,
+     "lapsCompleted": 12,
+     "totalTime": "5:04.930",
+     "behind": "2 Laps",
+     "fastLap": 20.9511,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 64.0601,
+     "stdDev": 5.04,
+     "consistency": 80.17,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 5,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 5,
+       "time": 31.029
+      },
+      {
+       "lap": 2,
+       "pos": 4,
+       "time": 22.959
+      },
+      {
+       "lap": 3,
+       "pos": 4,
+       "time": 23.055
+      },
+      {
+       "lap": 4,
+       "pos": 4,
+       "time": 23.398
+      },
+      {
+       "lap": 5,
+       "pos": 4,
+       "time": 29.508
+      },
+      {
+       "lap": 6,
+       "pos": 4,
+       "time": 29.431
+      },
+      {
+       "lap": 7,
+       "pos": 4,
+       "time": 37.671
+      },
+      {
+       "lap": 8,
+       "pos": 4,
+       "time": 21.736
+      },
+      {
+       "lap": 9,
+       "pos": 4,
+       "time": 22.083
+      },
+      {
+       "lap": 10,
+       "pos": 4,
+       "time": 20.951
+      },
+      {
+       "lap": 11,
+       "pos": 4,
+       "time": 21.622
+      },
+      {
+       "lap": 12,
+       "pos": 4,
+       "time": 21.487
+      }
+     ]
+    },
+    {
+     "pos": 5,
+     "carNum": 11,
+     "driverName": "YOGEV MACHLOOF",
+     "driverSlug": "yogev-machloof",
+     "qual": 6,
+     "lapsCompleted": 11,
+     "totalTime": "5:17.830",
+     "behind": "1 Lap",
+     "fastLap": 23.1384,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 75.1691,
+     "stdDev": 4.85,
+     "consistency": 83.2,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 6,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 4,
+       "time": 28.948
+      },
+      {
+       "lap": 2,
+       "pos": 5,
+       "time": 31.821
+      },
+      {
+       "lap": 3,
+       "pos": 5,
+       "time": 40.622
+      },
+      {
+       "lap": 4,
+       "pos": 5,
+       "time": 23.138
+      },
+      {
+       "lap": 5,
+       "pos": 5,
+       "time": 23.99
+      },
+      {
+       "lap": 6,
+       "pos": 5,
+       "time": 28.041
+      },
+      {
+       "lap": 7,
+       "pos": 5,
+       "time": 32.831
+      },
+      {
+       "lap": 8,
+       "pos": 5,
+       "time": 30.126
+      },
+      {
+       "lap": 9,
+       "pos": 5,
+       "time": 28.478
+      },
+      {
+       "lap": 10,
+       "pos": 5,
+       "time": 26.688
+      },
+      {
+       "lap": 11,
+       "pos": 5,
+       "time": 23.147
+      }
+     ]
+    },
+    {
+     "pos": 6,
+     "carNum": 7,
+     "driverName": "KOBI COHEN",
+     "driverSlug": "kobi-cohen",
+     "qual": 4,
+     "lapsCompleted": 0,
+     "totalTime": "",
+     "behind": "11 Laps",
+     "fastLap": null,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": null,
+     "stdDev": null,
+     "consistency": null,
+     "laps": []
+    }
+   ]
+  },
+  {
+   "id": 1180999,
+   "raceNum": 4,
+   "name": "Heat 2/5",
+   "className": "1/10 Electric 4wd",
+   "round": "Practice Round 1",
+   "completedAt": "2018-02-16T10:09:00.000Z",
+   "results": [
+    {
+     "pos": 1,
+     "carNum": 7,
+     "driverName": "SNIR AZRAD",
+     "driverSlug": "snir-azrad",
+     "qual": 5,
+     "lapsCompleted": 15,
+     "totalTime": "5:14.199",
+     "behind": "",
+     "fastLap": 19.26914,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": null,
+     "stdDev": 1.87,
+     "consistency": 91.08,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 5,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 1,
+       "time": 19.631
+      },
+      {
+       "lap": 2,
+       "pos": 1,
+       "time": 19.554
+      },
+      {
+       "lap": 3,
+       "pos": 1,
+       "time": 19.911
+      },
+      {
+       "lap": 4,
+       "pos": 3,
+       "time": 24.329
+      },
+      {
+       "lap": 5,
+       "pos": 3,
+       "time": 20.104
+      },
+      {
+       "lap": 6,
+       "pos": 1,
+       "time": 19.945
+      },
+      {
+       "lap": 7,
+       "pos": 1,
+       "time": 21.015
+      },
+      {
+       "lap": 8,
+       "pos": 1,
+       "time": 20.872
+      },
+      {
+       "lap": 9,
+       "pos": 1,
+       "time": 23.61
+      },
+      {
+       "lap": 10,
+       "pos": 2,
+       "time": 25.5
+      },
+      {
+       "lap": 11,
+       "pos": 2,
+       "time": 20.311
+      },
+      {
+       "lap": 12,
+       "pos": 1,
+       "time": 19.383
+      },
+      {
+       "lap": 13,
+       "pos": 1,
+       "time": 19.998
+      },
+      {
+       "lap": 14,
+       "pos": 1,
+       "time": 19.269
+      },
+      {
+       "lap": 15,
+       "pos": 1,
+       "time": 20.767
+      }
+     ]
+    },
+    {
+     "pos": 2,
+     "carNum": 5,
+     "driverName": "JBR",
+     "driverSlug": "jbr",
+     "qual": 2,
+     "lapsCompleted": 15,
+     "totalTime": "5:17.851",
+     "behind": "3.652",
+     "fastLap": 19.08115,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 60.7201,
+     "stdDev": 2.06,
+     "consistency": 90.29,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 2,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 2,
+       "time": 20.643
+      },
+      {
+       "lap": 2,
+       "pos": 2,
+       "time": 19.483
+      },
+      {
+       "lap": 3,
+       "pos": 3,
+       "time": 22.983
+      },
+      {
+       "lap": 4,
+       "pos": 2,
+       "time": 19.766
+      },
+      {
+       "lap": 5,
+       "pos": 2,
+       "time": 20.462
+      },
+      {
+       "lap": 6,
+       "pos": 2,
+       "time": 20.492
+      },
+      {
+       "lap": 7,
+       "pos": 3,
+       "time": 27.908
+      },
+      {
+       "lap": 8,
+       "pos": 4,
+       "time": 21.092
+      },
+      {
+       "lap": 9,
+       "pos": 2,
+       "time": 20.221
+      },
+      {
+       "lap": 10,
+       "pos": 1,
+       "time": 20.552
+      },
+      {
+       "lap": 11,
+       "pos": 1,
+       "time": 21.005
+      },
+      {
+       "lap": 12,
+       "pos": 2,
+       "time": 19.985
+      },
+      {
+       "lap": 13,
+       "pos": 2,
+       "time": 22.232
+      },
+      {
+       "lap": 14,
+       "pos": 2,
+       "time": 21.946
+      },
+      {
+       "lap": 15,
+       "pos": 2,
+       "time": 19.081
+      }
+     ]
+    },
+    {
+     "pos": 3,
+     "carNum": 3,
+     "driverName": "AVIV MAYMON",
+     "driverSlug": "aviv-maymon",
+     "qual": 3,
+     "lapsCompleted": 14,
+     "totalTime": "5:01.418",
+     "behind": "1 Lap",
+     "fastLap": 19.55413,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 60.1571,
+     "stdDev": 1.95,
+     "consistency": 90.93,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 3,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 4,
+       "time": 24.925
+      },
+      {
+       "lap": 2,
+       "pos": 4,
+       "time": 19.939
+      },
+      {
+       "lap": 3,
+       "pos": 4,
+       "time": 20.103
+      },
+      {
+       "lap": 4,
+       "pos": 4,
+       "time": 20.115
+      },
+      {
+       "lap": 5,
+       "pos": 4,
+       "time": 20.273
+      },
+      {
+       "lap": 6,
+       "pos": 3,
+       "time": 21.604
+      },
+      {
+       "lap": 7,
+       "pos": 2,
+       "time": 21.171
+      },
+      {
+       "lap": 8,
+       "pos": 2,
+       "time": 21.218
+      },
+      {
+       "lap": 9,
+       "pos": 3,
+       "time": 25.932
+      },
+      {
+       "lap": 10,
+       "pos": 3,
+       "time": 23.568
+      },
+      {
+       "lap": 11,
+       "pos": 3,
+       "time": 19.709
+      },
+      {
+       "lap": 12,
+       "pos": 3,
+       "time": 22.818
+      },
+      {
+       "lap": 13,
+       "pos": 3,
+       "time": 19.554
+      },
+      {
+       "lap": 14,
+       "pos": 3,
+       "time": 20.489
+      }
+     ]
+    },
+    {
+     "pos": 4,
+     "carNum": 12,
+     "driverName": "PAUL PRICE",
+     "driverSlug": "paul-price",
+     "qual": 4,
+     "lapsCompleted": 14,
+     "totalTime": "5:07.474",
+     "behind": "6.056",
+     "fastLap": 19.0815,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": null,
+     "stdDev": 2.46,
+     "consistency": 88.79,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 4,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 3,
+       "time": 20.851
+      },
+      {
+       "lap": 2,
+       "pos": 3,
+       "time": 19.477
+      },
+      {
+       "lap": 3,
+       "pos": 2,
+       "time": 19.558
+      },
+      {
+       "lap": 4,
+       "pos": 1,
+       "time": 22.652
+      },
+      {
+       "lap": 5,
+       "pos": 1,
+       "time": 19.081
+      },
+      {
+       "lap": 6,
+       "pos": 4,
+       "time": 25.786
+      },
+      {
+       "lap": 7,
+       "pos": 5,
+       "time": 26.279
+      },
+      {
+       "lap": 8,
+       "pos": 5,
+       "time": 20.917
+      },
+      {
+       "lap": 9,
+       "pos": 4,
+       "time": 26.05
+      },
+      {
+       "lap": 10,
+       "pos": 4,
+       "time": 20.448
+      },
+      {
+       "lap": 11,
+       "pos": 4,
+       "time": 23.683
+      },
+      {
+       "lap": 12,
+       "pos": 4,
+       "time": 19.996
+      },
+      {
+       "lap": 13,
+       "pos": 4,
+       "time": 22.326
+      },
+      {
+       "lap": 14,
+       "pos": 4,
+       "time": 20.37
+      }
+     ]
+    },
+    {
+     "pos": 5,
+     "carNum": 8,
+     "driverName": "YOSI ARBEL",
+     "driverSlug": "yosi-arbel",
+     "qual": 1,
+     "lapsCompleted": 12,
+     "totalTime": "5:04.847",
+     "behind": "2 Laps",
+     "fastLap": 19.1178,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 61.0031,
+     "stdDev": 12.62,
+     "consistency": 50.33,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 1,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 5,
+       "time": 27.002
+      },
+      {
+       "lap": 2,
+       "pos": 5,
+       "time": 21.59
+      },
+      {
+       "lap": 3,
+       "pos": 5,
+       "time": 23.05
+      },
+      {
+       "lap": 4,
+       "pos": 5,
+       "time": 19.344
+      },
+      {
+       "lap": 5,
+       "pos": 5,
+       "time": 19.395
+      },
+      {
+       "lap": 6,
+       "pos": 5,
+       "time": 22.264
+      },
+      {
+       "lap": 7,
+       "pos": 4,
+       "time": 19.942
+      },
+      {
+       "lap": 8,
+       "pos": 3,
+       "time": 19.117
+      },
+      {
+       "lap": 9,
+       "pos": 5,
+       "time": 66.507
+      },
+      {
+       "lap": 10,
+       "pos": 5,
+       "time": 22.575
+      },
+      {
+       "lap": 11,
+       "pos": 5,
+       "time": 19.243
+      },
+      {
+       "lap": 12,
+       "pos": 5,
+       "time": 24.818
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1180998,
+   "raceNum": 3,
+   "name": "Heat 1/5",
+   "className": "1/10 Electric 4wd",
+   "round": "Practice Round 1",
+   "completedAt": "2018-02-16T09:59:00.000Z",
+   "results": [
+    {
+     "pos": 1,
+     "carNum": 1,
+     "driverName": "ELI ELIMELCH",
+     "driverSlug": "eli-elimelch",
+     "qual": 1,
+     "lapsCompleted": 15,
+     "totalTime": "5:01.695",
+     "behind": "",
+     "fastLap": 12.77515,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": null,
+     "stdDev": 3.49,
+     "consistency": 82.66,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 1,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 3,
+       "time": 28.028
+      },
+      {
+       "lap": 2,
+       "pos": 2,
+       "time": 19.958
+      },
+      {
+       "lap": 3,
+       "pos": 1,
+       "time": 19.744
+      },
+      {
+       "lap": 4,
+       "pos": 1,
+       "time": 24.334
+      },
+      {
+       "lap": 5,
+       "pos": 1,
+       "time": 19.472
+      },
+      {
+       "lap": 6,
+       "pos": 1,
+       "time": 18.701
+      },
+      {
+       "lap": 7,
+       "pos": 1,
+       "time": 20.394
+      },
+      {
+       "lap": 8,
+       "pos": 2,
+       "time": 19.522
+      },
+      {
+       "lap": 9,
+       "pos": 1,
+       "time": 15.112
+      },
+      {
+       "lap": 10,
+       "pos": 2,
+       "time": 23.157
+      },
+      {
+       "lap": 11,
+       "pos": 2,
+       "time": 22.869
+      },
+      {
+       "lap": 12,
+       "pos": 2,
+       "time": 19.08
+      },
+      {
+       "lap": 13,
+       "pos": 1,
+       "time": 19.94
+      },
+      {
+       "lap": 14,
+       "pos": 1,
+       "time": 18.609
+      },
+      {
+       "lap": 15,
+       "pos": 1,
+       "time": 12.775
+      }
+     ]
+    },
+    {
+     "pos": 2,
+     "carNum": 6,
+     "driverName": "OREN BARUCO",
+     "driverSlug": "oren-baruco",
+     "qual": 4,
+     "lapsCompleted": 14,
+     "totalTime": "5:03.073",
+     "behind": "1 Lap",
+     "fastLap": 12.4888,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": null,
+     "stdDev": 4.42,
+     "consistency": 79.59,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 4,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 1,
+       "time": 23.21
+      },
+      {
+       "lap": 2,
+       "pos": 1,
+       "time": 23.31
+      },
+      {
+       "lap": 3,
+       "pos": 2,
+       "time": 23.881
+      },
+      {
+       "lap": 4,
+       "pos": 2,
+       "time": 21.757
+      },
+      {
+       "lap": 5,
+       "pos": 2,
+       "time": 19.988
+      },
+      {
+       "lap": 6,
+       "pos": 2,
+       "time": 20.526
+      },
+      {
+       "lap": 7,
+       "pos": 2,
+       "time": 20.641
+      },
+      {
+       "lap": 8,
+       "pos": 1,
+       "time": 12.488
+      },
+      {
+       "lap": 9,
+       "pos": 2,
+       "time": 21.916
+      },
+      {
+       "lap": 10,
+       "pos": 1,
+       "time": 12.516
+      },
+      {
+       "lap": 11,
+       "pos": 1,
+       "time": 27.134
+      },
+      {
+       "lap": 12,
+       "pos": 1,
+       "time": 22.247
+      },
+      {
+       "lap": 13,
+       "pos": 2,
+       "time": 28.79
+      },
+      {
+       "lap": 14,
+       "pos": 2,
+       "time": 24.669
+      }
+     ]
+    },
+    {
+     "pos": 3,
+     "carNum": 2,
+     "driverName": "ASHER ANCHELOVICH",
+     "driverSlug": "asher-anchelovich",
+     "qual": 2,
+     "lapsCompleted": 13,
+     "totalTime": "5:10.195",
+     "behind": "1 Lap",
+     "fastLap": 22.06511,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 66.6901,
+     "stdDev": 1.61,
+     "consistency": 93.26,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 2,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 2,
+       "time": 24.799
+      },
+      {
+       "lap": 2,
+       "pos": 3,
+       "time": 25.309
+      },
+      {
+       "lap": 3,
+       "pos": 3,
+       "time": 25.822
+      },
+      {
+       "lap": 4,
+       "pos": 3,
+       "time": 24.116
+      },
+      {
+       "lap": 5,
+       "pos": 3,
+       "time": 25.455
+      },
+      {
+       "lap": 6,
+       "pos": 3,
+       "time": 27.125
+      },
+      {
+       "lap": 7,
+       "pos": 3,
+       "time": 22.855
+      },
+      {
+       "lap": 8,
+       "pos": 3,
+       "time": 22.235
+      },
+      {
+       "lap": 9,
+       "pos": 3,
+       "time": 22.337
+      },
+      {
+       "lap": 10,
+       "pos": 3,
+       "time": 22.288
+      },
+      {
+       "lap": 11,
+       "pos": 3,
+       "time": 22.065
+      },
+      {
+       "lap": 12,
+       "pos": 3,
+       "time": 22.865
+      },
+      {
+       "lap": 13,
+       "pos": 3,
+       "time": 22.924
+      }
+     ]
+    },
+    {
+     "pos": 4,
+     "carNum": 9,
+     "driverName": "LIRON BARD",
+     "driverSlug": "liron-bard",
+     "qual": 5,
+     "lapsCompleted": 0,
+     "totalTime": "",
+     "behind": "0.000",
+     "fastLap": null,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": null,
+     "stdDev": null,
+     "consistency": null,
+     "laps": []
+    },
+    {
+     "pos": 4,
+     "carNum": 4,
+     "driverName": "OR BALULU",
+     "driverSlug": "or-balulu",
+     "qual": 3,
+     "lapsCompleted": 0,
+     "totalTime": "",
+     "behind": "13 Laps",
+     "fastLap": null,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": null,
+     "stdDev": null,
+     "consistency": null,
+     "laps": []
+    }
+   ]
+  },
+  {
+   "id": 1180995,
+   "raceNum": 2,
+   "name": "Heat 2/2",
+   "className": "1/10 Electric 2wd",
+   "round": "Practice Round 1",
+   "completedAt": "2018-02-16T06:30:00.000Z",
+   "results": [
+    {
+     "pos": 1,
+     "carNum": 5,
+     "driverName": "GUY RINKEVICH",
+     "driverSlug": "guy-rinkevich",
+     "qual": 5,
+     "lapsCompleted": 12,
+     "totalTime": "5:19.211",
+     "behind": "",
+     "fastLap": 25.4011,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 77.5461,
+     "stdDev": 0.94,
+     "consistency": 96.46,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 5,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 2,
+       "time": 26.018
+      },
+      {
+       "lap": 2,
+       "pos": 1,
+       "time": 25.603
+      },
+      {
+       "lap": 3,
+       "pos": 1,
+       "time": 25.925
+      },
+      {
+       "lap": 4,
+       "pos": 1,
+       "time": 26.08
+      },
+      {
+       "lap": 5,
+       "pos": 1,
+       "time": 26.876
+      },
+      {
+       "lap": 6,
+       "pos": 1,
+       "time": 27.126
+      },
+      {
+       "lap": 7,
+       "pos": 1,
+       "time": 28.062
+      },
+      {
+       "lap": 8,
+       "pos": 1,
+       "time": 28.637
+      },
+      {
+       "lap": 9,
+       "pos": 1,
+       "time": 26.08
+      },
+      {
+       "lap": 10,
+       "pos": 1,
+       "time": 25.401
+      },
+      {
+       "lap": 11,
+       "pos": 1,
+       "time": 26.395
+      },
+      {
+       "lap": 12,
+       "pos": 1,
+       "time": 27.008
+      }
+     ]
+    },
+    {
+     "pos": 2,
+     "carNum": 2,
+     "driverName": "PAUL PRICE",
+     "driverSlug": "paul-price",
+     "qual": 2,
+     "lapsCompleted": 12,
+     "totalTime": "5:22.999",
+     "behind": "3.788",
+     "fastLap": 25.7241,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 77.4611,
+     "stdDev": 1.37,
+     "consistency": 94.9,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 2,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 5,
+       "time": 30.807
+      },
+      {
+       "lap": 2,
+       "pos": 2,
+       "time": 26.712
+      },
+      {
+       "lap": 3,
+       "pos": 4,
+       "time": 27.506
+      },
+      {
+       "lap": 4,
+       "pos": 3,
+       "time": 26.645
+      },
+      {
+       "lap": 5,
+       "pos": 2,
+       "time": 26.494
+      },
+      {
+       "lap": 6,
+       "pos": 2,
+       "time": 26.469
+      },
+      {
+       "lap": 7,
+       "pos": 2,
+       "time": 26.104
+      },
+      {
+       "lap": 8,
+       "pos": 2,
+       "time": 26.428
+      },
+      {
+       "lap": 9,
+       "pos": 2,
+       "time": 28.373
+      },
+      {
+       "lap": 10,
+       "pos": 2,
+       "time": 25.724
+      },
+      {
+       "lap": 11,
+       "pos": 2,
+       "time": 25.736
+      },
+      {
+       "lap": 12,
+       "pos": 2,
+       "time": 26.001
+      }
+     ]
+    },
+    {
+     "pos": 3,
+     "carNum": 1,
+     "driverName": "TAL SILES",
+     "driverSlug": "tal-siles",
+     "qual": 1,
+     "lapsCompleted": 11,
+     "totalTime": "5:03.911",
+     "behind": "1 Lap",
+     "fastLap": 24.8811,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 80.0581,
+     "stdDev": 2.31,
+     "consistency": 91.63,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 1,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 1,
+       "time": 24.881
+      },
+      {
+       "lap": 2,
+       "pos": 4,
+       "time": 33.698
+      },
+      {
+       "lap": 3,
+       "pos": 2,
+       "time": 25.578
+      },
+      {
+       "lap": 4,
+       "pos": 2,
+       "time": 26.15
+      },
+      {
+       "lap": 5,
+       "pos": 3,
+       "time": 28.824
+      },
+      {
+       "lap": 6,
+       "pos": 3,
+       "time": 28.628
+      },
+      {
+       "lap": 7,
+       "pos": 3,
+       "time": 27.909
+      },
+      {
+       "lap": 8,
+       "pos": 3,
+       "time": 27.896
+      },
+      {
+       "lap": 9,
+       "pos": 3,
+       "time": 26.525
+      },
+      {
+       "lap": 10,
+       "pos": 3,
+       "time": 25.637
+      },
+      {
+       "lap": 11,
+       "pos": 3,
+       "time": 28.185
+      }
+     ]
+    },
+    {
+     "pos": 4,
+     "carNum": 4,
+     "driverName": "ALON SHUALI",
+     "driverSlug": "alon-shuali",
+     "qual": 4,
+     "lapsCompleted": 11,
+     "totalTime": "5:24.801",
+     "behind": "20.890",
+     "fastLap": 27.1389,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 83.0501,
+     "stdDev": 2.08,
+     "consistency": 92.97,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 4,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 3,
+       "time": 27.26
+      },
+      {
+       "lap": 2,
+       "pos": 6,
+       "time": 33.588
+      },
+      {
+       "lap": 3,
+       "pos": 6,
+       "time": 32.816
+      },
+      {
+       "lap": 4,
+       "pos": 6,
+       "time": 29.901
+      },
+      {
+       "lap": 5,
+       "pos": 6,
+       "time": 29.88
+      },
+      {
+       "lap": 6,
+       "pos": 6,
+       "time": 27.797
+      },
+      {
+       "lap": 7,
+       "pos": 5,
+       "time": 30.129
+      },
+      {
+       "lap": 8,
+       "pos": 5,
+       "time": 30.38
+      },
+      {
+       "lap": 9,
+       "pos": 5,
+       "time": 27.138
+      },
+      {
+       "lap": 10,
+       "pos": 5,
+       "time": 27.935
+      },
+      {
+       "lap": 11,
+       "pos": 4,
+       "time": 27.977
+      }
+     ]
+    },
+    {
+     "pos": 5,
+     "carNum": 6,
+     "driverName": "ARIE ITSKOVICH",
+     "driverSlug": "arie-itskovich",
+     "qual": 6,
+     "lapsCompleted": 11,
+     "totalTime": "5:24.804",
+     "behind": "0.003",
+     "fastLap": 27.0343,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 84.0621,
+     "stdDev": 1.89,
+     "consistency": 93.6,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 6,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 4,
+       "time": 27.851
+      },
+      {
+       "lap": 2,
+       "pos": 3,
+       "time": 29.674
+      },
+      {
+       "lap": 3,
+       "pos": 3,
+       "time": 27.034
+      },
+      {
+       "lap": 4,
+       "pos": 4,
+       "time": 30.582
+      },
+      {
+       "lap": 5,
+       "pos": 5,
+       "time": 31.782
+      },
+      {
+       "lap": 6,
+       "pos": 5,
+       "time": 32.786
+      },
+      {
+       "lap": 7,
+       "pos": 6,
+       "time": 31.895
+      },
+      {
+       "lap": 8,
+       "pos": 4,
+       "time": 28.722
+      },
+      {
+       "lap": 9,
+       "pos": 4,
+       "time": 27.961
+      },
+      {
+       "lap": 10,
+       "pos": 4,
+       "time": 27.379
+      },
+      {
+       "lap": 11,
+       "pos": 5,
+       "time": 29.138
+      }
+     ]
+    },
+    {
+     "pos": 6,
+     "carNum": 3,
+     "driverName": "ASAF GOREVICH",
+     "driverSlug": "asaf-gorevich",
+     "qual": 3,
+     "lapsCompleted": 10,
+     "totalTime": "5:09.547",
+     "behind": "1 Lap",
+     "fastLap": 27.6226,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 83.9041,
+     "stdDev": 3.26,
+     "consistency": 89.46,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 3,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 6,
+       "time": 31.33
+      },
+      {
+       "lap": 2,
+       "pos": 5,
+       "time": 27.961
+      },
+      {
+       "lap": 3,
+       "pos": 5,
+       "time": 27.685
+      },
+      {
+       "lap": 4,
+       "pos": 5,
+       "time": 28.258
+      },
+      {
+       "lap": 5,
+       "pos": 4,
+       "time": 31.008
+      },
+      {
+       "lap": 6,
+       "pos": 4,
+       "time": 27.622
+      },
+      {
+       "lap": 7,
+       "pos": 4,
+       "time": 37.374
+      },
+      {
+       "lap": 8,
+       "pos": 6,
+       "time": 36.077
+      },
+      {
+       "lap": 9,
+       "pos": 6,
+       "time": 30.513
+      },
+      {
+       "lap": 10,
+       "pos": 6,
+       "time": 31.719
+      }
+     ]
+    },
+    {
+     "pos": 7,
+     "carNum": 7,
+     "driverName": "URIEL ZNATY",
+     "driverSlug": "uriel-znaty",
+     "qual": 7,
+     "lapsCompleted": 0,
+     "totalTime": "",
+     "behind": "10 Laps",
+     "fastLap": null,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": null,
+     "stdDev": null,
+     "consistency": null,
+     "laps": []
+    }
+   ]
+  },
+  {
+   "id": 1180994,
+   "raceNum": 1,
+   "name": "Heat 1/2",
+   "className": "1/10 Electric 2wd",
+   "round": "Practice Round 1",
+   "completedAt": "2018-02-16T06:21:00.000Z",
+   "results": [
+    {
+     "pos": 1,
+     "carNum": 5,
+     "driverName": "AVIV MAYMON",
+     "driverSlug": "aviv-maymon",
+     "qual": 5,
+     "lapsCompleted": 11,
+     "totalTime": "5:10.316",
+     "behind": "",
+     "fastLap": 25.8264,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 79.2351,
+     "stdDev": 2.68,
+     "consistency": 90.51,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 5,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 1,
+       "time": 27.188
+      },
+      {
+       "lap": 2,
+       "pos": 1,
+       "time": 26.32
+      },
+      {
+       "lap": 3,
+       "pos": 2,
+       "time": 32.19
+      },
+      {
+       "lap": 4,
+       "pos": 1,
+       "time": 25.826
+      },
+      {
+       "lap": 5,
+       "pos": 1,
+       "time": 26.994
+      },
+      {
+       "lap": 6,
+       "pos": 1,
+       "time": 26.415
+      },
+      {
+       "lap": 7,
+       "pos": 1,
+       "time": 28.539
+      },
+      {
+       "lap": 8,
+       "pos": 1,
+       "time": 27.137
+      },
+      {
+       "lap": 9,
+       "pos": 1,
+       "time": 27.914
+      },
+      {
+       "lap": 10,
+       "pos": 1,
+       "time": 26.884
+      },
+      {
+       "lap": 11,
+       "pos": 1,
+       "time": 34.909
+      }
+     ]
+    },
+    {
+     "pos": 2,
+     "carNum": 3,
+     "driverName": "YOSI ARBEL",
+     "driverSlug": "yosi-arbel",
+     "qual": 3,
+     "lapsCompleted": 11,
+     "totalTime": "5:22.215",
+     "behind": "11.898",
+     "fastLap": 25.1948,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 80.0001,
+     "stdDev": 3.1,
+     "consistency": 89.4,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 3,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 4,
+       "time": 35.002
+      },
+      {
+       "lap": 2,
+       "pos": 3,
+       "time": 26.106
+      },
+      {
+       "lap": 3,
+       "pos": 3,
+       "time": 29.561
+      },
+      {
+       "lap": 4,
+       "pos": 3,
+       "time": 27.492
+      },
+      {
+       "lap": 5,
+       "pos": 3,
+       "time": 33.696
+      },
+      {
+       "lap": 6,
+       "pos": 3,
+       "time": 26.579
+      },
+      {
+       "lap": 7,
+       "pos": 3,
+       "time": 28.227
+      },
+      {
+       "lap": 8,
+       "pos": 3,
+       "time": 25.194
+      },
+      {
+       "lap": 9,
+       "pos": 3,
+       "time": 29.401
+      },
+      {
+       "lap": 10,
+       "pos": 3,
+       "time": 27.988
+      },
+      {
+       "lap": 11,
+       "pos": 2,
+       "time": 32.969
+      }
+     ]
+    },
+    {
+     "pos": 3,
+     "carNum": 4,
+     "driverName": "JBR",
+     "driverSlug": "jbr",
+     "qual": 4,
+     "lapsCompleted": 10,
+     "totalTime": "4:37.599",
+     "behind": "1 Lap",
+     "fastLap": 25.6831,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 79.3661,
+     "stdDev": 1.74,
+     "consistency": 93.73,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 4,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 2,
+       "time": 29.759
+      },
+      {
+       "lap": 2,
+       "pos": 2,
+       "time": 27.75
+      },
+      {
+       "lap": 3,
+       "pos": 1,
+       "time": 28.004
+      },
+      {
+       "lap": 4,
+       "pos": 2,
+       "time": 26.387
+      },
+      {
+       "lap": 5,
+       "pos": 2,
+       "time": 29.148
+      },
+      {
+       "lap": 6,
+       "pos": 2,
+       "time": 31.16
+      },
+      {
+       "lap": 7,
+       "pos": 2,
+       "time": 26.025
+      },
+      {
+       "lap": 8,
+       "pos": 2,
+       "time": 27.801
+      },
+      {
+       "lap": 9,
+       "pos": 2,
+       "time": 25.882
+      },
+      {
+       "lap": 10,
+       "pos": 2,
+       "time": 25.683
+      }
+     ]
+    },
+    {
+     "pos": 4,
+     "carNum": 6,
+     "driverName": "HAREL SENDEROV",
+     "driverSlug": "harel-senderov",
+     "qual": 6,
+     "lapsCompleted": 8,
+     "totalTime": "4:40.306",
+     "behind": "2 Laps",
+     "fastLap": 30.5335,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 98.3861,
+     "stdDev": 2.57,
+     "consistency": 92.67,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 6,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 3,
+       "time": 34.801
+      },
+      {
+       "lap": 2,
+       "pos": 4,
+       "time": 35.923
+      },
+      {
+       "lap": 3,
+       "pos": 4,
+       "time": 36.353
+      },
+      {
+       "lap": 4,
+       "pos": 4,
+       "time": 36.763
+      },
+      {
+       "lap": 5,
+       "pos": 4,
+       "time": 30.533
+      },
+      {
+       "lap": 6,
+       "pos": 4,
+       "time": 31.09
+      },
+      {
+       "lap": 7,
+       "pos": 4,
+       "time": 37.41
+      },
+      {
+       "lap": 8,
+       "pos": 4,
+       "time": 37.433
+      }
+     ]
+    },
+    {
+     "pos": 5,
+     "carNum": 2,
+     "driverName": "YOGEV MACHLOOF",
+     "driverSlug": "yogev-machloof",
+     "qual": 2,
+     "lapsCompleted": 0,
+     "totalTime": "",
+     "behind": "0.000",
+     "fastLap": null,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": null,
+     "stdDev": null,
+     "consistency": null,
+     "laps": []
+    },
+    {
+     "pos": 5,
+     "carNum": 1,
+     "driverName": "ERAN KAVE",
+     "driverSlug": "eran-kave",
+     "qual": 1,
+     "lapsCompleted": 0,
+     "totalTime": "",
+     "behind": "8 Laps",
+     "fastLap": null,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": null,
+     "stdDev": null,
+     "consistency": null,
+     "laps": []
+    }
+   ]
+  }
+ ]
+}
