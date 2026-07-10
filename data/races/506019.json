@@ -2345,7 +2345,8 @@
        "pos": 1,
        "time": 35.096
       }
-     ]
+     ],
+     "bumpedUp": true
     },
     {
      "pos": 2,
@@ -2486,10 +2487,11 @@
        "pos": 2,
        "time": 38.53
       }
-     ]
+     ],
+     "bumpedUp": true
     },
     {
-     "pos": 3,
+     "pos": 1,
      "carNum": 3,
      "driverName": "HAIM ARI",
      "driverSlug": "haim-ari",
@@ -2514,118 +2516,118 @@
       },
       {
        "lap": 1,
-       "pos": 7,
+       "pos": 5,
        "time": 53.575
       },
       {
        "lap": 2,
-       "pos": 6,
+       "pos": 4,
        "time": 45.082
       },
       {
        "lap": 3,
-       "pos": 6,
+       "pos": 4,
        "time": 43.985
       },
       {
        "lap": 4,
-       "pos": 4,
+       "pos": 2,
        "time": 42.617
       },
       {
        "lap": 5,
-       "pos": 6,
+       "pos": 4,
        "time": 50.394
       },
       {
        "lap": 6,
-       "pos": 6,
+       "pos": 4,
        "time": 43.835
       },
       {
        "lap": 7,
-       "pos": 6,
+       "pos": 4,
        "time": 43.803
       },
       {
        "lap": 8,
-       "pos": 5,
+       "pos": 3,
        "time": 43.253
       },
       {
        "lap": 9,
-       "pos": 4,
+       "pos": 2,
        "time": 46.04
       },
       {
        "lap": 10,
-       "pos": 4,
+       "pos": 2,
        "time": 43.628
       },
       {
        "lap": 11,
-       "pos": 4,
+       "pos": 2,
        "time": 63.128
       },
       {
        "lap": 12,
-       "pos": 4,
+       "pos": 2,
        "time": 45.957
       },
       {
        "lap": 13,
-       "pos": 4,
+       "pos": 2,
        "time": 42.24
       },
       {
        "lap": 14,
-       "pos": 4,
+       "pos": 2,
        "time": 49.115
       },
       {
        "lap": 15,
-       "pos": 4,
+       "pos": 2,
        "time": 3.315
       },
       {
        "lap": 16,
-       "pos": 4,
+       "pos": 2,
        "time": 40.859
       },
       {
        "lap": 17,
-       "pos": 4,
+       "pos": 2,
        "time": 43.643
       },
       {
        "lap": 18,
-       "pos": 4,
+       "pos": 2,
        "time": 44.166
       },
       {
        "lap": 19,
-       "pos": 4,
+       "pos": 2,
        "time": 39.397
       },
       {
        "lap": 20,
-       "pos": 3,
+       "pos": 1,
        "time": 4.389
       },
       {
        "lap": 21,
-       "pos": 3,
+       "pos": 1,
        "time": 47.594
       },
       {
        "lap": 22,
-       "pos": 3,
+       "pos": 1,
        "time": 47.273
       }
      ]
     },
     {
-     "pos": 4,
+     "pos": 2,
      "carNum": 1,
      "driverName": "JONATHAN BUBLIL",
      "driverSlug": "jonathan-bublil",
@@ -2650,113 +2652,113 @@
       },
       {
        "lap": 1,
-       "pos": 2,
+       "pos": 1,
        "time": 36.655
       },
       {
        "lap": 2,
-       "pos": 2,
+       "pos": 1,
        "time": 42.048
       },
       {
        "lap": 3,
-       "pos": 4,
+       "pos": 2,
        "time": 46.534
       },
       {
        "lap": 4,
-       "pos": 3,
+       "pos": 1,
        "time": 45.977
       },
       {
        "lap": 5,
-       "pos": 3,
+       "pos": 1,
        "time": 39.734
       },
       {
        "lap": 6,
-       "pos": 3,
+       "pos": 1,
        "time": 41.507
       },
       {
        "lap": 7,
-       "pos": 3,
+       "pos": 1,
        "time": 44.589
       },
       {
        "lap": 8,
-       "pos": 3,
+       "pos": 1,
        "time": 44.606
       },
       {
        "lap": 9,
-       "pos": 3,
+       "pos": 1,
        "time": 49.569
       },
       {
        "lap": 10,
-       "pos": 3,
+       "pos": 1,
        "time": 45.077
       },
       {
        "lap": 11,
-       "pos": 3,
+       "pos": 1,
        "time": 42.313
       },
       {
        "lap": 12,
-       "pos": 3,
+       "pos": 1,
        "time": 44.534
       },
       {
        "lap": 13,
-       "pos": 3,
+       "pos": 1,
        "time": 39.797
       },
       {
        "lap": 14,
-       "pos": 3,
+       "pos": 1,
        "time": 44.73
       },
       {
        "lap": 15,
-       "pos": 3,
+       "pos": 1,
        "time": 42.26
       },
       {
        "lap": 16,
-       "pos": 3,
+       "pos": 1,
        "time": 41.454
       },
       {
        "lap": 17,
-       "pos": 3,
+       "pos": 1,
        "time": 48.292
       },
       {
        "lap": 18,
-       "pos": 3,
+       "pos": 1,
        "time": 40.396
       },
       {
        "lap": 19,
-       "pos": 3,
+       "pos": 1,
        "time": 39.469
       },
       {
        "lap": 20,
-       "pos": 4,
+       "pos": 2,
        "time": 44.508
       },
       {
        "lap": 21,
-       "pos": 4,
+       "pos": 2,
        "time": 42.128
       }
      ]
     },
     {
-     "pos": 5,
+     "pos": 3,
      "carNum": 2,
      "driverName": "GUY BEN HARUSH",
      "driverSlug": "guy-ben-harush",
@@ -2781,108 +2783,108 @@
       },
       {
        "lap": 1,
-       "pos": 8,
+       "pos": 6,
        "time": 54.039
       },
       {
        "lap": 2,
-       "pos": 5,
+       "pos": 3,
        "time": 41.389
       },
       {
        "lap": 3,
-       "pos": 5,
+       "pos": 3,
        "time": 42.32
       },
       {
        "lap": 4,
-       "pos": 6,
+       "pos": 4,
        "time": 52.902
       },
       {
        "lap": 5,
-       "pos": 5,
+       "pos": 3,
        "time": 42.331
       },
       {
        "lap": 6,
-       "pos": 5,
+       "pos": 3,
        "time": 40.99
       },
       {
        "lap": 7,
-       "pos": 5,
+       "pos": 3,
        "time": 42.152
       },
       {
        "lap": 8,
-       "pos": 7,
+       "pos": 5,
        "time": 99.939
       },
       {
        "lap": 9,
-       "pos": 8,
+       "pos": 6,
        "time": 48.532
       },
       {
        "lap": 10,
-       "pos": 6,
+       "pos": 4,
        "time": 42.848
       },
       {
        "lap": 11,
-       "pos": 8,
+       "pos": 6,
        "time": 49.201
       },
       {
        "lap": 12,
-       "pos": 8,
+       "pos": 6,
        "time": 51.336
       },
       {
        "lap": 13,
-       "pos": 7,
+       "pos": 5,
        "time": 32.186
       },
       {
        "lap": 14,
-       "pos": 5,
+       "pos": 3,
        "time": 17.654
       },
       {
        "lap": 15,
-       "pos": 5,
+       "pos": 3,
        "time": 47.004
       },
       {
        "lap": 16,
-       "pos": 6,
+       "pos": 4,
        "time": 47.534
       },
       {
        "lap": 17,
-       "pos": 6,
+       "pos": 4,
        "time": 52.973
       },
       {
        "lap": 18,
-       "pos": 7,
+       "pos": 5,
        "time": 41.434
       },
       {
        "lap": 19,
-       "pos": 7,
+       "pos": 5,
        "time": 48.04
       },
       {
        "lap": 20,
-       "pos": 5,
+       "pos": 3,
        "time": 7.063
       }
      ]
     },
     {
-     "pos": 6,
+     "pos": 4,
      "carNum": 8,
      "driverName": "YAIR RUBIN",
      "driverSlug": "yair-rubin",
@@ -2902,113 +2904,113 @@
      "laps": [
       {
        "lap": 0,
-       "pos": 8,
+       "pos": 6,
        "time": 0
       },
       {
        "lap": 1,
-       "pos": 4,
+       "pos": 2,
        "time": 39.051
       },
       {
        "lap": 2,
-       "pos": 3,
+       "pos": 2,
        "time": 40.137
       },
       {
        "lap": 3,
-       "pos": 3,
+       "pos": 1,
        "time": 39.486
       },
       {
        "lap": 4,
-       "pos": 5,
+       "pos": 3,
        "time": 68.042
       },
       {
        "lap": 5,
-       "pos": 4,
+       "pos": 2,
        "time": 38.779
       },
       {
        "lap": 6,
-       "pos": 4,
+       "pos": 2,
        "time": 37.487
       },
       {
        "lap": 7,
-       "pos": 4,
+       "pos": 2,
        "time": 40.37
       },
       {
        "lap": 8,
-       "pos": 4,
+       "pos": 2,
        "time": 41.111
       },
       {
        "lap": 9,
-       "pos": 7,
+       "pos": 5,
        "time": 116.353
       },
       {
        "lap": 10,
-       "pos": 7,
+       "pos": 5,
        "time": 47.021
       },
       {
        "lap": 11,
-       "pos": 6,
+       "pos": 4,
        "time": 37.206
       },
       {
        "lap": 12,
-       "pos": 5,
+       "pos": 3,
        "time": 41.7
       },
       {
        "lap": 13,
-       "pos": 5,
+       "pos": 3,
        "time": 42.099
       },
       {
        "lap": 14,
-       "pos": 6,
+       "pos": 4,
        "time": 36.726
       },
       {
        "lap": 15,
-       "pos": 6,
+       "pos": 4,
        "time": 39.647
       },
       {
        "lap": 16,
-       "pos": 5,
+       "pos": 3,
        "time": 38.48
       },
       {
        "lap": 17,
-       "pos": 5,
+       "pos": 3,
        "time": 53.207
       },
       {
        "lap": 18,
-       "pos": 6,
+       "pos": 4,
        "time": 37.381
       },
       {
        "lap": 19,
-       "pos": 6,
+       "pos": 4,
        "time": 40.538
       },
       {
        "lap": 20,
-       "pos": 6,
+       "pos": 4,
        "time": 40.332
       }
      ]
     },
     {
-     "pos": 7,
+     "pos": 5,
      "carNum": 4,
      "driverName": "YEHUDA MOYAL",
      "driverSlug": "yehuda-moyal",
@@ -3033,108 +3035,108 @@
       },
       {
        "lap": 1,
-       "pos": 5,
+       "pos": 3,
        "time": 45.787
       },
       {
        "lap": 2,
-       "pos": 8,
+       "pos": 6,
        "time": 126.281
       },
       {
        "lap": 3,
-       "pos": 8,
+       "pos": 6,
        "time": 43.499
       },
       {
        "lap": 4,
-       "pos": 8,
+       "pos": 6,
        "time": 43.494
       },
       {
        "lap": 5,
-       "pos": 8,
+       "pos": 6,
        "time": 47.764
       },
       {
        "lap": 6,
-       "pos": 8,
+       "pos": 6,
        "time": 43.926
       },
       {
        "lap": 7,
-       "pos": 8,
+       "pos": 6,
        "time": 53.561
       },
       {
        "lap": 8,
-       "pos": 8,
+       "pos": 6,
        "time": 43.717
       },
       {
        "lap": 9,
-       "pos": 6,
+       "pos": 4,
        "time": 3.89
       },
       {
        "lap": 10,
-       "pos": 8,
+       "pos": 6,
        "time": 58.991
       },
       {
        "lap": 11,
-       "pos": 7,
+       "pos": 5,
        "time": 43.187
       },
       {
        "lap": 12,
-       "pos": 7,
+       "pos": 5,
        "time": 42.844
       },
       {
        "lap": 13,
-       "pos": 8,
+       "pos": 6,
        "time": 50.109
       },
       {
        "lap": 14,
-       "pos": 8,
+       "pos": 6,
        "time": 45.147
       },
       {
        "lap": 15,
-       "pos": 7,
+       "pos": 5,
        "time": 42.353
       },
       {
        "lap": 16,
-       "pos": 7,
+       "pos": 5,
        "time": 46.836
       },
       {
        "lap": 17,
-       "pos": 7,
+       "pos": 5,
        "time": 43.588
       },
       {
        "lap": 18,
-       "pos": 5,
+       "pos": 3,
        "time": 9.237
       },
       {
        "lap": 19,
-       "pos": 5,
+       "pos": 3,
        "time": 39.701
       },
       {
        "lap": 20,
-       "pos": 7,
+       "pos": 5,
        "time": 47.822
       }
      ]
     },
     {
-     "pos": 8,
+     "pos": 6,
      "carNum": 6,
      "driverName": "ANDRAY ANDREIVSKY",
      "driverSlug": "andray-andreivsky",
@@ -3154,77 +3156,77 @@
      "laps": [
       {
        "lap": 0,
-       "pos": 6,
+       "pos": 5,
        "time": 0
       },
       {
        "lap": 1,
-       "pos": 6,
+       "pos": 4,
        "time": 51.565
       },
       {
        "lap": 2,
-       "pos": 7,
+       "pos": 5,
        "time": 49.668
       },
       {
        "lap": 3,
-       "pos": 7,
+       "pos": 5,
        "time": 49.368
       },
       {
        "lap": 4,
-       "pos": 7,
+       "pos": 5,
        "time": 46.867
       },
       {
        "lap": 5,
-       "pos": 7,
+       "pos": 5,
        "time": 45.416
       },
       {
        "lap": 6,
-       "pos": 7,
+       "pos": 5,
        "time": 46.986
       },
       {
        "lap": 7,
-       "pos": 7,
+       "pos": 5,
        "time": 46.896
       },
       {
        "lap": 8,
-       "pos": 6,
+       "pos": 4,
        "time": 49.446
       },
       {
        "lap": 9,
-       "pos": 5,
+       "pos": 3,
        "time": 45.969
       },
       {
        "lap": 10,
-       "pos": 5,
+       "pos": 3,
        "time": 58.673
       },
       {
        "lap": 11,
-       "pos": 5,
+       "pos": 3,
        "time": 46.475
       },
       {
        "lap": 12,
-       "pos": 6,
+       "pos": 4,
        "time": 50.837
       },
       {
        "lap": 13,
-       "pos": 6,
+       "pos": 4,
        "time": 45.408
       },
       {
        "lap": 14,
-       "pos": 7,
+       "pos": 5,
        "time": 51.15
       }
      ]
@@ -4956,7 +4958,8 @@
        "pos": 1,
        "time": 36.695
       }
-     ]
+     ],
+     "bumpedUp": true
     },
     {
      "pos": 2,
@@ -5082,10 +5085,11 @@
        "pos": 2,
        "time": 40.419
       }
-     ]
+     ],
+     "bumpedUp": true
     },
     {
-     "pos": 3,
+     "pos": 1,
      "carNum": 4,
      "driverName": "ERAN TAL",
      "driverSlug": "eran-tal",
@@ -5110,98 +5114,98 @@
       },
       {
        "lap": 1,
-       "pos": 4,
+       "pos": 2,
        "time": 48.09
       },
       {
        "lap": 2,
-       "pos": 5,
+       "pos": 3,
        "time": 53.088
       },
       {
        "lap": 3,
-       "pos": 4,
+       "pos": 2,
        "time": 46.147
       },
       {
        "lap": 4,
-       "pos": 4,
+       "pos": 2,
        "time": 48.653
       },
       {
        "lap": 5,
-       "pos": 5,
+       "pos": 3,
        "time": 58.288
       },
       {
        "lap": 6,
-       "pos": 5,
+       "pos": 3,
        "time": 49.323
       },
       {
        "lap": 7,
-       "pos": 4,
+       "pos": 2,
        "time": 47.203
       },
       {
        "lap": 8,
-       "pos": 3,
+       "pos": 1,
        "time": 51.586
       },
       {
        "lap": 9,
-       "pos": 3,
+       "pos": 1,
        "time": 45.117
       },
       {
        "lap": 10,
-       "pos": 3,
+       "pos": 1,
        "time": 61.243
       },
       {
        "lap": 11,
-       "pos": 3,
+       "pos": 1,
        "time": 74.251
       },
       {
        "lap": 12,
-       "pos": 3,
+       "pos": 1,
        "time": 43.774
       },
       {
        "lap": 13,
-       "pos": 3,
+       "pos": 1,
        "time": 46.749
       },
       {
        "lap": 14,
-       "pos": 3,
+       "pos": 1,
        "time": 46.664
       },
       {
        "lap": 15,
-       "pos": 3,
+       "pos": 1,
        "time": 46.128
       },
       {
        "lap": 16,
-       "pos": 3,
+       "pos": 1,
        "time": 47.97
       },
       {
        "lap": 17,
-       "pos": 3,
+       "pos": 1,
        "time": 45.511
       },
       {
        "lap": 18,
-       "pos": 3,
+       "pos": 1,
        "time": 49.263
       }
      ]
     },
     {
-     "pos": 4,
+     "pos": 2,
      "carNum": 2,
      "driverName": "MENASH MICHAELI",
      "driverSlug": "menash-michaeli",
@@ -5226,88 +5230,88 @@
       },
       {
        "lap": 1,
-       "pos": 3,
+       "pos": 1,
        "time": 42.07
       },
       {
        "lap": 2,
-       "pos": 3,
+       "pos": 1,
        "time": 45.1
       },
       {
        "lap": 3,
-       "pos": 3,
+       "pos": 1,
        "time": 51.067
       },
       {
        "lap": 4,
-       "pos": 3,
+       "pos": 1,
        "time": 43.354
       },
       {
        "lap": 5,
-       "pos": 3,
+       "pos": 1,
        "time": 50.501
       },
       {
        "lap": 6,
-       "pos": 3,
+       "pos": 1,
        "time": 42.672
       },
       {
        "lap": 7,
-       "pos": 3,
+       "pos": 1,
        "time": 63.884
       },
       {
        "lap": 8,
-       "pos": 5,
+       "pos": 3,
        "time": 159.155
       },
       {
        "lap": 9,
-       "pos": 5,
+       "pos": 3,
        "time": 50.571
       },
       {
        "lap": 10,
-       "pos": 5,
+       "pos": 3,
        "time": 43.792
       },
       {
        "lap": 11,
-       "pos": 4,
+       "pos": 2,
        "time": 45.886
       },
       {
        "lap": 12,
-       "pos": 4,
+       "pos": 2,
        "time": 48.197
       },
       {
        "lap": 13,
-       "pos": 4,
+       "pos": 2,
        "time": 53.29
       },
       {
        "lap": 14,
-       "pos": 4,
+       "pos": 2,
        "time": 46.179
       },
       {
        "lap": 15,
-       "pos": 4,
+       "pos": 2,
        "time": 46.866
       },
       {
        "lap": 16,
-       "pos": 4,
+       "pos": 2,
        "time": 45.032
       }
      ]
     },
     {
-     "pos": 5,
+     "pos": 3,
      "carNum": 8,
      "driverName": "UDI ELKAYAM",
      "driverSlug": "udi-elkayam",
@@ -5327,88 +5331,88 @@
      "laps": [
       {
        "lap": 0,
-       "pos": 8,
+       "pos": 6,
        "time": 0
       },
       {
        "lap": 1,
-       "pos": 6,
+       "pos": 4,
        "time": 56.85
       },
       {
        "lap": 2,
-       "pos": 6,
+       "pos": 4,
        "time": 55.718
       },
       {
        "lap": 3,
-       "pos": 6,
+       "pos": 4,
        "time": 61.423
       },
       {
        "lap": 4,
-       "pos": 6,
+       "pos": 4,
        "time": 59.616
       },
       {
        "lap": 5,
-       "pos": 6,
+       "pos": 4,
        "time": 57.904
       },
       {
        "lap": 6,
-       "pos": 6,
+       "pos": 4,
        "time": 60.878
       },
       {
        "lap": 7,
-       "pos": 5,
+       "pos": 3,
        "time": 68.97
       },
       {
        "lap": 8,
-       "pos": 4,
+       "pos": 2,
        "time": 49.932
       },
       {
        "lap": 9,
-       "pos": 4,
+       "pos": 2,
        "time": 61.136
       },
       {
        "lap": 10,
-       "pos": 4,
+       "pos": 2,
        "time": 55.169
       },
       {
        "lap": 11,
-       "pos": 5,
+       "pos": 3,
        "time": 63.953
       },
       {
        "lap": 12,
-       "pos": 5,
+       "pos": 3,
        "time": 65.429
       },
       {
        "lap": 13,
-       "pos": 5,
+       "pos": 3,
        "time": 73.758
       },
       {
        "lap": 14,
-       "pos": 5,
+       "pos": 3,
        "time": 62.497
       },
       {
        "lap": 15,
-       "pos": 5,
+       "pos": 3,
        "time": 64.361
       }
      ]
     },
     {
-     "pos": 6,
+     "pos": 4,
      "carNum": 7,
      "driverName": "ILAY ZINO",
      "driverSlug": "ilay-zino",
@@ -5428,88 +5432,88 @@
      "laps": [
       {
        "lap": 0,
-       "pos": 7,
+       "pos": 5,
        "time": 0
       },
       {
        "lap": 1,
-       "pos": 8,
+       "pos": 6,
        "time": 107.254
       },
       {
        "lap": 2,
-       "pos": 7,
+       "pos": 5,
        "time": 56.13
       },
       {
        "lap": 3,
-       "pos": 7,
+       "pos": 5,
        "time": 57.163
       },
       {
        "lap": 4,
-       "pos": 7,
+       "pos": 5,
        "time": 54.018
       },
       {
        "lap": 5,
-       "pos": 7,
+       "pos": 5,
        "time": 68.03
       },
       {
        "lap": 6,
-       "pos": 7,
+       "pos": 5,
        "time": 57.241
       },
       {
        "lap": 7,
-       "pos": 6,
+       "pos": 4,
        "time": 107.208
       },
       {
        "lap": 8,
-       "pos": 6,
+       "pos": 4,
        "time": 60.468
       },
       {
        "lap": 9,
-       "pos": 6,
+       "pos": 4,
        "time": 51.417
       },
       {
        "lap": 10,
-       "pos": 6,
+       "pos": 4,
        "time": 53.131
       },
       {
        "lap": 11,
-       "pos": 6,
+       "pos": 4,
        "time": 61.631
       },
       {
        "lap": 12,
-       "pos": 6,
+       "pos": 4,
        "time": 54.7
       },
       {
        "lap": 13,
-       "pos": 6,
+       "pos": 4,
        "time": 51.323
       },
       {
        "lap": 14,
-       "pos": 6,
+       "pos": 4,
        "time": 49.703
       },
       {
        "lap": 15,
-       "pos": 6,
+       "pos": 4,
        "time": 49.347
       }
      ]
     },
     {
-     "pos": 7,
+     "pos": 5,
      "carNum": 3,
      "driverName": "YANIV BELAHNES",
      "driverSlug": "yaniv-belahnes",
@@ -5534,58 +5538,58 @@
       },
       {
        "lap": 1,
-       "pos": 5,
+       "pos": 3,
        "time": 48.559
       },
       {
        "lap": 2,
-       "pos": 4,
+       "pos": 2,
        "time": 46.66
       },
       {
        "lap": 3,
-       "pos": 5,
+       "pos": 3,
        "time": 52.555
       },
       {
        "lap": 4,
-       "pos": 5,
+       "pos": 3,
        "time": 52.53
       },
       {
        "lap": 5,
-       "pos": 4,
+       "pos": 2,
        "time": 50.05
       },
       {
        "lap": 6,
-       "pos": 4,
+       "pos": 2,
        "time": 49.694
       },
       {
        "lap": 7,
-       "pos": 7,
+       "pos": 5,
        "time": 478.736
       },
       {
        "lap": 8,
-       "pos": 7,
+       "pos": 5,
        "time": 48.468
       },
       {
        "lap": 9,
-       "pos": 7,
+       "pos": 5,
        "time": 48.268
       },
       {
        "lap": 10,
-       "pos": 7,
+       "pos": 5,
        "time": 45.345
       }
      ]
     },
     {
-     "pos": 8,
+     "pos": 6,
      "carNum": 1,
      "driverName": "YAIR TILO",
      "driverSlug": "yair-tilo",
@@ -5610,12 +5614,12 @@
       },
       {
        "lap": 1,
-       "pos": 7,
+       "pos": 5,
        "time": 88.551
       },
       {
        "lap": 2,
-       "pos": 8,
+       "pos": 6,
        "time": 150.998
       }
      ]
