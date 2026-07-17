@@ -414,8 +414,8 @@
    },
    {
     "pos": 16,
-    "driverName": "ASHER PALAYEV",
-    "driverSlug": "asher-palayev",
+    "driverName": "ASHER PAILAYEV",
+    "driverSlug": "asher-pailayev",
     "points": null,
     "legs": []
    },
@@ -456,8 +456,8 @@
    },
    {
     "pos": 22,
-    "driverName": "ODI ELKAYAM",
-    "driverSlug": "odi-elkayam",
+    "driverName": "UDI ELKAYAM",
+    "driverSlug": "udi-elkayam",
     "points": null,
     "legs": []
    },
@@ -2681,8 +2681,8 @@
     {
      "pos": 9,
      "carNum": 5,
-     "driverName": "ASHER PALAYEV",
-     "driverSlug": "asher-palayev",
+     "driverName": "ASHER PAILAYEV",
+     "driverSlug": "asher-pailayev",
      "qual": 5,
      "lapsCompleted": 17,
      "totalTime": "15:08.980",
@@ -5215,8 +5215,8 @@
     {
      "pos": 7,
      "carNum": 7,
-     "driverName": "ODI ELKAYAM",
-     "driverSlug": "odi-elkayam",
+     "driverName": "UDI ELKAYAM",
+     "driverSlug": "udi-elkayam",
      "qual": 7,
      "lapsCompleted": 9,
      "totalTime": "12:25.027",
@@ -7549,8 +7549,8 @@
     {
      "pos": 2,
      "carNum": 5,
-     "driverName": "ASHER PALAYEV",
-     "driverSlug": "asher-palayev",
+     "driverName": "ASHER PAILAYEV",
+     "driverSlug": "asher-pailayev",
      "qual": 5,
      "lapsCompleted": 7,
      "totalTime": "5:18.291",
@@ -8256,8 +8256,8 @@
     {
      "pos": 6,
      "carNum": 5,
-     "driverName": "ODI ELKAYAM",
-     "driverSlug": "odi-elkayam",
+     "driverName": "UDI ELKAYAM",
+     "driverSlug": "udi-elkayam",
      "qual": 5,
      "lapsCompleted": 0,
      "totalTime": "",
@@ -10271,8 +10271,8 @@
     {
      "pos": 4,
      "carNum": 5,
-     "driverName": "ASHER PALAYEV",
-     "driverSlug": "asher-palayev",
+     "driverName": "ASHER PAILAYEV",
+     "driverSlug": "asher-pailayev",
      "qual": 5,
      "lapsCompleted": 7,
      "totalTime": "5:36.567",
@@ -10866,8 +10866,8 @@
     {
      "pos": 6,
      "carNum": 5,
-     "driverName": "ODI ELKAYAM",
-     "driverSlug": "odi-elkayam",
+     "driverName": "UDI ELKAYAM",
+     "driverSlug": "udi-elkayam",
      "qual": 5,
      "lapsCompleted": 3,
      "totalTime": "5:50.884",
@@ -13391,8 +13391,8 @@
     {
      "pos": 5,
      "carNum": 2,
-     "driverName": "ASHER PALAYEV",
-     "driverSlug": "asher-palayev",
+     "driverName": "ASHER PAILAYEV",
+     "driverSlug": "asher-pailayev",
      "qual": 2,
      "lapsCompleted": 6,
      "totalTime": "5:55.654",
@@ -13447,8 +13447,8 @@
     {
      "pos": 6,
      "carNum": 8,
-     "driverName": "ODI ELKAYAM",
-     "driverSlug": "odi-elkayam",
+     "driverName": "UDI ELKAYAM",
+     "driverSlug": "udi-elkayam",
      "qual": 8,
      "lapsCompleted": 3,
      "totalTime": "3:37.484",
