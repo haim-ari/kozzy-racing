@@ -10,8 +10,8 @@
   "1/8 Electric Truggy"
  ],
  "league": true,
- "raceCount": 23,
- "lapCount": 1793,
+ "raceCount": 25,
+ "lapCount": 2003,
  "classStats": {
   "1/8 Electric Buggy": {
    "drivers": 21,
@@ -30,37 +30,37 @@
      "legs": [
       "1st (1pts) : 15/8:19.099",
       "1st (1pts) : 15/8:12.779",
-      "(0pts) : 0/"
+      "7th (7pts) : 0/0.000"
      ]
     },
     {
      "pos": 2,
+     "driverName": "YAIR RUBIN",
+     "driverSlug": "yair-rubin",
+     "points": 3,
+     "legs": [
+      "2nd (2pts) : 15/8:30.480",
+      "7th (7pts) : 7/4:07.106",
+      "1st (1pts) : 15/8:35.558"
+     ]
+    },
+    {
+     "pos": 3,
      "driverName": "OFIR AVITAN",
      "driverSlug": "ofir-avitan",
      "points": 5,
      "legs": [
       "3rd (3pts) : 14/8:16.475",
       "2nd (2pts) : 15/8:20.147",
-      "(0pts) : 0/"
-     ]
-    },
-    {
-     "pos": 3,
-     "driverName": "AVIV BALASSIANO",
-     "driverSlug": "aviv-balassiano",
-     "points": 8,
-     "legs": [
-      "4th (4pts) : 13/8:04.966",
-      "4th (4pts) : 14/8:26.352",
-      "(0pts) : 0/"
+      "6th (6pts) : 2/51.948"
      ]
     }
    ]
   },
   "1/8 Electric Truggy": {
    "drivers": 19,
-   "races": 8,
-   "laps": 738,
+   "races": 10,
+   "laps": 948,
    "bestLap": {
     "time": 33.508,
     "driverName": "OFIR AVITAN"
@@ -74,29 +74,29 @@
      "legs": [
       "1st (1pts) : 15/8:28.490",
       "1st (1pts) : 15/8:18.667",
-      "(0pts) : 0/"
+      "9th (9pts) : 8/4:25.740"
      ]
     },
     {
      "pos": 2,
-     "driverName": "YONI COZAC",
-     "driverSlug": "yoni-cozac",
-     "points": 7,
+     "driverName": "YONI BETTAN",
+     "driverSlug": "yoni-bettan",
+     "points": 4,
      "legs": [
-      "4th (4pts) : 14/8:28.155",
-      "3rd (3pts) : 14/8:36.331",
-      "(0pts) : 0/"
+      "3rd (3pts) : 14/8:12.937",
+      "4th (4pts) : 13/8:03.706",
+      "1st (1pts) : 14/8:13.768"
      ]
     },
     {
      "pos": 3,
-     "driverName": "YONI BETTAN",
-     "driverSlug": "yoni-bettan",
-     "points": 7,
+     "driverName": "MAOR NAVON",
+     "driverSlug": "maor-navon",
+     "points": 5,
      "legs": [
-      "3rd (3pts) : 14/8:12.937",
-      "4th (4pts) : 13/8:03.706",
-      "(0pts) : 0/"
+      "7th (7pts) : 13/8:15.809",
+      "2nd (2pts) : 14/8:30.786",
+      "3rd (3pts) : 14/8:32.855"
      ]
     }
    ]
@@ -113,73 +113,73 @@
     "legs": [
      "1st (1pts) : 15/8:19.099",
      "1st (1pts) : 15/8:12.779",
-     "(0pts) : 0/"
+     "7th (7pts) : 0/0.000"
     ]
    },
    {
     "pos": 2,
+    "driverName": "YAIR RUBIN",
+    "driverSlug": "yair-rubin",
+    "points": 3,
+    "legs": [
+     "2nd (2pts) : 15/8:30.480",
+     "7th (7pts) : 7/4:07.106",
+     "1st (1pts) : 15/8:35.558"
+    ]
+   },
+   {
+    "pos": 3,
     "driverName": "OFIR AVITAN",
     "driverSlug": "ofir-avitan",
     "points": 5,
     "legs": [
      "3rd (3pts) : 14/8:16.475",
      "2nd (2pts) : 15/8:20.147",
-     "(0pts) : 0/"
+     "6th (6pts) : 2/51.948"
     ]
    },
    {
-    "pos": 3,
+    "pos": 4,
+    "driverName": "LIRON BIZER",
+    "driverSlug": "liron-bizer",
+    "points": 5,
+    "legs": [
+     "6th (6pts) : 8/4:37.301",
+     "3rd (3pts) : 14/8:18.271",
+     "2nd (2pts) : 14/8:20.046"
+    ]
+   },
+   {
+    "pos": 5,
     "driverName": "AVIV BALASSIANO",
     "driverSlug": "aviv-balassiano",
     "points": 8,
     "legs": [
      "4th (4pts) : 13/8:04.966",
      "4th (4pts) : 14/8:26.352",
-     "(0pts) : 0/"
-    ]
-   },
-   {
-    "pos": 4,
-    "driverName": "YAIR RUBIN",
-    "driverSlug": "yair-rubin",
-    "points": 9,
-    "legs": [
-     "2nd (2pts) : 15/8:30.480",
-     "7th (7pts) : 7/4:07.106",
-     "(0pts) : 0/"
-    ]
-   },
-   {
-    "pos": 5,
-    "driverName": "LIRON BIZER",
-    "driverSlug": "liron-bizer",
-    "points": 9,
-    "legs": [
-     "6th (6pts) : 8/4:37.301",
-     "3rd (3pts) : 14/8:18.271",
-     "(0pts) : 0/"
+     "4th (4pts) : 13/8:21.948"
     ]
    },
    {
     "pos": 6,
     "driverName": "IDO CARMON",
     "driverSlug": "ido-carmon",
-    "points": 10,
+    "points": 8,
     "legs": [
      "5th (5pts) : 13/8:16.471",
      "5th (5pts) : 14/8:38.848",
-     "(0pts) : 0/"
+     "3rd (3pts) : 13/8:00.900"
     ]
    },
    {
     "pos": 7,
     "driverName": "JONATHAN BUBLIL",
     "driverSlug": "jonathan-bublil",
-    "points": 13,
+    "points": 11,
     "legs": [
      "7th (7pts) : 5/3:11.147",
      "6th (6pts) : 10/6:13.133",
-     "(0pts) : 0/"
+     "5th (5pts) : 13/8:28.113"
     ]
    },
    {
@@ -346,161 +346,161 @@
     "legs": [
      "1st (1pts) : 15/8:28.490",
      "1st (1pts) : 15/8:18.667",
-     "(0pts) : 0/"
+     "9th (9pts) : 8/4:25.740"
     ]
    },
    {
     "pos": 2,
+    "driverName": "YONI BETTAN",
+    "driverSlug": "yoni-bettan",
+    "points": 4,
+    "legs": [
+     "3rd (3pts) : 14/8:12.937",
+     "4th (4pts) : 13/8:03.706",
+     "1st (1pts) : 14/8:13.768"
+    ]
+   },
+   {
+    "pos": 3,
+    "driverName": "MAOR NAVON",
+    "driverSlug": "maor-navon",
+    "points": 5,
+    "legs": [
+     "7th (7pts) : 13/8:15.809",
+     "2nd (2pts) : 14/8:30.786",
+     "3rd (3pts) : 14/8:32.855"
+    ]
+   },
+   {
+    "pos": 4,
     "driverName": "YONI COZAC",
     "driverSlug": "yoni-cozac",
     "points": 7,
     "legs": [
      "4th (4pts) : 14/8:28.155",
      "3rd (3pts) : 14/8:36.331",
-     "(0pts) : 0/"
-    ]
-   },
-   {
-    "pos": 3,
-    "driverName": "YONI BETTAN",
-    "driverSlug": "yoni-bettan",
-    "points": 7,
-    "legs": [
-     "3rd (3pts) : 14/8:12.937",
-     "4th (4pts) : 13/8:03.706",
-     "(0pts) : 0/"
-    ]
-   },
-   {
-    "pos": 4,
-    "driverName": "MAOR NAVON",
-    "driverSlug": "maor-navon",
-    "points": 9,
-    "legs": [
-     "7th (7pts) : 13/8:15.809",
-     "2nd (2pts) : 14/8:30.786",
-     "(0pts) : 0/"
+     "7th (7pts) : 12/7:09.649"
     ]
    },
    {
     "pos": 5,
+    "driverName": "CASS YOAV",
+    "driverSlug": "cass-yoav",
+    "points": 7,
+    "legs": [
+     "8th (8pts) : 13/8:15.972",
+     "5th (5pts) : 13/8:11.497",
+     "2nd (2pts) : 14/8:25.227"
+    ]
+   },
+   {
+    "pos": 6,
+    "driverName": "GUY ALMOG",
+    "driverSlug": "guy-almog",
+    "points": 9,
+    "legs": [
+     "5th (5pts) : 13/8:05.211",
+     "7th (7pts) : 13/8:31.238",
+     "4th (4pts) : 13/8:01.077"
+    ]
+   },
+   {
+    "pos": 7,
     "driverName": "HAREL SENDROV",
     "driverSlug": "harel-sendrov",
     "points": 11,
     "legs": [
      "2nd (2pts) : 14/8:03.477",
      "9th (9pts) : 12/6:46.749",
-     "(0pts) : 0/"
+     "10th (10pts) : 0/0.000"
     ]
    },
    {
-    "pos": 6,
+    "pos": 8,
     "driverName": "JONATHAN BUBLIL",
     "driverSlug": "jonathan-bublil",
     "points": 12,
     "legs": [
      "6th (6pts) : 13/8:05.464",
      "6th (6pts) : 13/8:24.604",
-     "(0pts) : 0/"
-    ]
-   },
-   {
-    "pos": 7,
-    "driverName": "GUY ALMOG",
-    "driverSlug": "guy-almog",
-    "points": 12,
-    "legs": [
-     "5th (5pts) : 13/8:05.211",
-     "7th (7pts) : 13/8:31.238",
-     "(0pts) : 0/"
-    ]
-   },
-   {
-    "pos": 8,
-    "driverName": "CASS YOAV",
-    "driverSlug": "cass-yoav",
-    "points": 13,
-    "legs": [
-     "8th (8pts) : 13/8:15.972",
-     "5th (5pts) : 13/8:11.497",
-     "(0pts) : 0/"
+     "8th (8pts) : 12/7:37.942"
     ]
    },
    {
     "pos": 9,
     "driverName": "MAOR EVEN HEN",
     "driverSlug": "maor-even-hen",
-    "points": 18,
+    "points": 13,
     "legs": [
      "10th (10pts) : 5/3:27.757",
      "8th (8pts) : 13/8:36.701",
-     "(0pts) : 0/"
+     "5th (5pts) : 13/8:40.946"
     ]
    },
    {
     "pos": 10,
     "driverName": "ROBINHOOD",
     "driverSlug": "robinhood",
-    "points": 19,
+    "points": 15,
     "legs": [
      "9th (9pts) : 12/8:06.038",
      "10th (10pts) : 12/8:00.227",
-     "(0pts) : 0/"
+     "6th (6pts) : 13/8:47.552"
     ]
    },
    {
     "pos": 11,
+    "driverName": "OSHRI HAJAJ",
+    "driverSlug": "oshri-hajaj",
+    "points": 2,
+    "legs": [
+     "6th (6pts) : 12/8:09.647",
+     "1st (1pts) : 13/8:26.099",
+     "1st (1pts) : 13/8:29.279"
+    ]
+   },
+   {
+    "pos": 12,
     "driverName": "KOUKI BALOUKA",
     "driverSlug": "kouki-balouka",
     "points": 4,
     "legs": [
      "1st (1pts) : 13/8:18.844",
      "3rd (3pts) : 13/8:30.972",
-     "(0pts) : 0/"
+     "5th (5pts) : 12/8:02.840"
     ]
    },
    {
-    "pos": 12,
+    "pos": 13,
     "driverName": "YONATAN IDEL",
     "driverSlug": "yonatan-idel",
     "points": 4,
     "legs": [
      "2nd (2pts) : 13/8:29.880",
      "2nd (2pts) : 13/8:30.547",
-     "(0pts) : 0/"
+     "2nd (2pts) : 13/8:30.267"
     ]
    },
    {
-    "pos": 13,
+    "pos": 14,
     "driverName": "LIOR YAKOV",
     "driverSlug": "lior-yakov",
     "points": 7,
     "legs": [
      "3rd (3pts) : 13/8:32.073",
      "4th (4pts) : 13/8:34.821",
-     "(0pts) : 0/"
-    ]
-   },
-   {
-    "pos": 14,
-    "driverName": "OSHRI HAJAJ",
-    "driverSlug": "oshri-hajaj",
-    "points": 7,
-    "legs": [
-     "6th (6pts) : 12/8:09.647",
-     "1st (1pts) : 13/8:26.099",
-     "(0pts) : 0/"
+     "4th (4pts) : 12/8:00.300"
     ]
    },
    {
     "pos": 15,
     "driverName": "BENNY BRIGA",
     "driverSlug": "benny-briga",
-    "points": 9,
+    "points": 7,
     "legs": [
      "4th (4pts) : 12/8:06.040",
      "5th (5pts) : 12/8:14.637",
-     "(0pts) : 0/"
+     "3rd (3pts) : 13/8:36.625"
     ]
    },
    {
@@ -511,45 +511,1603 @@
     "legs": [
      "5th (5pts) : 12/8:07.947",
      "6th (6pts) : 12/8:19.498",
-     "(0pts) : 0/"
+     "9th (9pts) : 3/1:50.362"
     ]
    },
    {
     "pos": 17,
     "driverName": "RAMI MORDOCH",
     "driverSlug": "rami-mordoch",
-    "points": 15,
+    "points": 13,
     "legs": [
      "7th (7pts) : 12/8:42.480",
      "8th (8pts) : 11/8:09.941",
-     "(0pts) : 0/"
+     "6th (6pts) : 11/8:17.130"
     ]
    },
    {
     "pos": 18,
     "driverName": "ITAMAR CASS",
     "driverSlug": "itamar-cass",
-    "points": 16,
+    "points": 14,
     "legs": [
      "9th (9pts) : 2/1:05.778",
      "7th (7pts) : 12/8:20.013",
-     "(0pts) : 0/"
+     "7th (7pts) : 10/7:14.310"
     ]
    },
    {
     "pos": 19,
     "driverName": "MEIR PERETS",
     "driverSlug": "meir-perets",
-    "points": 17,
+    "points": 16,
     "legs": [
      "8th (8pts) : 10/8:41.348",
      "9th (9pts) : 10/8:24.987",
-     "(0pts) : 0/"
+     "8th (8pts) : 10/8:47.862"
     ]
    }
   ]
  },
  "races": [
+  {
+   "id": 7111178,
+   "raceNum": 15,
+   "name": "A3-Main",
+   "className": "1/8 Electric Truggy",
+   "round": "Main Events",
+   "completedAt": "2026-10-09T15:03:00.000Z",
+   "results": [
+    {
+     "pos": 1,
+     "carNum": 3,
+     "driverName": "YONI BETTAN",
+     "driverSlug": "yoni-bettan",
+     "qual": 3,
+     "lapsCompleted": 14,
+     "totalTime": "8:13.768",
+     "behind": "",
+     "fastLap": 35.04,
+     "fastLapNum": 8,
+     "avgLap": 36.73,
+     "avgTop5": 35.627,
+     "avgTop10": 36.033,
+     "avgTop15": null,
+     "top3Consec": 106.704,
+     "stdDev": 1.45,
+     "consistency": 96.05,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 3,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 2,
+       "time": 16.281
+      },
+      {
+       "lap": 2,
+       "pos": 3,
+       "time": 39.447
+      },
+      {
+       "lap": 3,
+       "pos": 3,
+       "time": 37.177
+      },
+      {
+       "lap": 4,
+       "pos": 3,
+       "time": 37.648
+      },
+      {
+       "lap": 5,
+       "pos": 3,
+       "time": 35.79
+      },
+      {
+       "lap": 6,
+       "pos": 2,
+       "time": 35.76
+      },
+      {
+       "lap": 7,
+       "pos": 2,
+       "time": 40.064
+      },
+      {
+       "lap": 8,
+       "pos": 2,
+       "time": 35.04
+      },
+      {
+       "lap": 9,
+       "pos": 1,
+       "time": 35.627
+      },
+      {
+       "lap": 10,
+       "pos": 1,
+       "time": 36.037
+      },
+      {
+       "lap": 11,
+       "pos": 1,
+       "time": 35.919
+      },
+      {
+       "lap": 12,
+       "pos": 1,
+       "time": 35.974
+      },
+      {
+       "lap": 13,
+       "pos": 1,
+       "time": 36.203
+      },
+      {
+       "lap": 14,
+       "pos": 1,
+       "time": 36.801
+      }
+     ]
+    },
+    {
+     "pos": 2,
+     "carNum": 6,
+     "driverName": "CASS YOAV",
+     "driverSlug": "cass-yoav",
+     "qual": 6,
+     "lapsCompleted": 14,
+     "totalTime": "8:25.227",
+     "behind": "11.459",
+     "fastLap": 35.624,
+     "fastLapNum": 10,
+     "avgLap": 37.484,
+     "avgTop5": 36.072,
+     "avgTop10": 36.61,
+     "avgTop15": null,
+     "top3Consec": 107.893,
+     "stdDev": 2.16,
+     "consistency": 94.24,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 6,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 5,
+       "time": 17.935
+      },
+      {
+       "lap": 2,
+       "pos": 4,
+       "time": 38.446
+      },
+      {
+       "lap": 3,
+       "pos": 5,
+       "time": 38.425
+      },
+      {
+       "lap": 4,
+       "pos": 5,
+       "time": 37.95
+      },
+      {
+       "lap": 5,
+       "pos": 5,
+       "time": 44.317
+      },
+      {
+       "lap": 6,
+       "pos": 5,
+       "time": 37.204
+      },
+      {
+       "lap": 7,
+       "pos": 5,
+       "time": 36.053
+      },
+      {
+       "lap": 8,
+       "pos": 5,
+       "time": 36.432
+      },
+      {
+       "lap": 9,
+       "pos": 4,
+       "time": 36.272
+      },
+      {
+       "lap": 10,
+       "pos": 4,
+       "time": 35.624
+      },
+      {
+       "lap": 11,
+       "pos": 4,
+       "time": 35.997
+      },
+      {
+       "lap": 12,
+       "pos": 3,
+       "time": 36.414
+      },
+      {
+       "lap": 13,
+       "pos": 2,
+       "time": 37.221
+      },
+      {
+       "lap": 14,
+       "pos": 2,
+       "time": 36.937
+      }
+     ]
+    },
+    {
+     "pos": 3,
+     "carNum": 8,
+     "driverName": "MAOR NAVON",
+     "driverSlug": "maor-navon",
+     "qual": 8,
+     "lapsCompleted": 14,
+     "totalTime": "8:32.855",
+     "behind": "7.628",
+     "fastLap": 36.497,
+     "fastLapNum": 11,
+     "avgLap": 37.984,
+     "avgTop5": 36.951,
+     "avgTop10": 37.483,
+     "avgTop15": null,
+     "top3Consec": 111.542,
+     "stdDev": 1.15,
+     "consistency": 96.96,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 8,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 7,
+       "time": 19.069
+      },
+      {
+       "lap": 2,
+       "pos": 5,
+       "time": 38.124
+      },
+      {
+       "lap": 3,
+       "pos": 4,
+       "time": 37.339
+      },
+      {
+       "lap": 4,
+       "pos": 4,
+       "time": 37.496
+      },
+      {
+       "lap": 5,
+       "pos": 4,
+       "time": 38.591
+      },
+      {
+       "lap": 6,
+       "pos": 4,
+       "time": 36.903
+      },
+      {
+       "lap": 7,
+       "pos": 4,
+       "time": 37.894
+      },
+      {
+       "lap": 8,
+       "pos": 4,
+       "time": 36.941
+      },
+      {
+       "lap": 9,
+       "pos": 3,
+       "time": 37.075
+      },
+      {
+       "lap": 10,
+       "pos": 3,
+       "time": 37.97
+      },
+      {
+       "lap": 11,
+       "pos": 3,
+       "time": 36.497
+      },
+      {
+       "lap": 12,
+       "pos": 4,
+       "time": 39.45
+      },
+      {
+       "lap": 13,
+       "pos": 3,
+       "time": 40.881
+      },
+      {
+       "lap": 14,
+       "pos": 3,
+       "time": 38.625
+      }
+     ]
+    },
+    {
+     "pos": 4,
+     "carNum": 7,
+     "driverName": "GUY ALMOG",
+     "driverSlug": "guy-almog",
+     "qual": 7,
+     "lapsCompleted": 13,
+     "totalTime": "8:01.077",
+     "behind": "1 Lap",
+     "fastLap": 35.475,
+     "fastLapNum": 8,
+     "avgLap": 38.547,
+     "avgTop5": 35.88,
+     "avgTop10": 37.249,
+     "avgTop15": null,
+     "top3Consec": 107.36,
+     "stdDev": 3.56,
+     "consistency": 90.77,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 7,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 6,
+       "time": 18.516
+      },
+      {
+       "lap": 2,
+       "pos": 7,
+       "time": 43.168
+      },
+      {
+       "lap": 3,
+       "pos": 6,
+       "time": 36.534
+      },
+      {
+       "lap": 4,
+       "pos": 6,
+       "time": 36.009
+      },
+      {
+       "lap": 5,
+       "pos": 7,
+       "time": 46.904
+      },
+      {
+       "lap": 6,
+       "pos": 6,
+       "time": 36.244
+      },
+      {
+       "lap": 7,
+       "pos": 6,
+       "time": 35.641
+      },
+      {
+       "lap": 8,
+       "pos": 6,
+       "time": 35.475
+      },
+      {
+       "lap": 9,
+       "pos": 5,
+       "time": 37.075
+      },
+      {
+       "lap": 10,
+       "pos": 5,
+       "time": 36.031
+      },
+      {
+       "lap": 11,
+       "pos": 5,
+       "time": 42.843
+      },
+      {
+       "lap": 12,
+       "pos": 5,
+       "time": 38.544
+      },
+      {
+       "lap": 13,
+       "pos": 4,
+       "time": 38.093
+      }
+     ]
+    },
+    {
+     "pos": 5,
+     "carNum": 10,
+     "driverName": "MAOR EVEN HEN",
+     "driverSlug": "maor-even-hen",
+     "qual": 10,
+     "lapsCompleted": 13,
+     "totalTime": "8:40.946",
+     "behind": "39.869",
+     "fastLap": 36.778,
+     "fastLapNum": 10,
+     "avgLap": 41.684,
+     "avgTop5": 37.843,
+     "avgTop10": 39.715,
+     "avgTop15": null,
+     "top3Consec": 115.752,
+     "stdDev": 5.73,
+     "consistency": 86.27,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 10,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 9,
+       "time": 20.743
+      },
+      {
+       "lap": 2,
+       "pos": 9,
+       "time": 44.264
+      },
+      {
+       "lap": 3,
+       "pos": 8,
+       "time": 39.187
+      },
+      {
+       "lap": 4,
+       "pos": 8,
+       "time": 37.992
+      },
+      {
+       "lap": 5,
+       "pos": 8,
+       "time": 42.287
+      },
+      {
+       "lap": 6,
+       "pos": 7,
+       "time": 37.53
+      },
+      {
+       "lap": 7,
+       "pos": 7,
+       "time": 44.25
+      },
+      {
+       "lap": 8,
+       "pos": 7,
+       "time": 37.73
+      },
+      {
+       "lap": 9,
+       "pos": 7,
+       "time": 42.419
+      },
+      {
+       "lap": 10,
+       "pos": 7,
+       "time": 36.778
+      },
+      {
+       "lap": 11,
+       "pos": 7,
+       "time": 39.512
+      },
+      {
+       "lap": 12,
+       "pos": 7,
+       "time": 39.462
+      },
+      {
+       "lap": 13,
+       "pos": 5,
+       "time": 58.792
+      }
+     ]
+    },
+    {
+     "pos": 6,
+     "carNum": 9,
+     "driverName": "ROBINHOOD",
+     "driverSlug": "robinhood",
+     "qual": 9,
+     "lapsCompleted": 13,
+     "totalTime": "8:47.552",
+     "behind": "6.606",
+     "fastLap": 36.604,
+     "fastLapNum": 7,
+     "avgLap": 42.329,
+     "avgTop5": 38.209,
+     "avgTop10": 40.837,
+     "avgTop15": null,
+     "top3Consec": 113.15,
+     "stdDev": 4.51,
+     "consistency": 89.35,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 9,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 8,
+       "time": 19.608
+      },
+      {
+       "lap": 2,
+       "pos": 8,
+       "time": 44.995
+      },
+      {
+       "lap": 3,
+       "pos": 9,
+       "time": 40.897
+      },
+      {
+       "lap": 4,
+       "pos": 9,
+       "time": 38.842
+      },
+      {
+       "lap": 5,
+       "pos": 9,
+       "time": 51.507
+      },
+      {
+       "lap": 6,
+       "pos": 9,
+       "time": 47.072
+      },
+      {
+       "lap": 7,
+       "pos": 9,
+       "time": 36.604
+      },
+      {
+       "lap": 8,
+       "pos": 9,
+       "time": 37.966
+      },
+      {
+       "lap": 9,
+       "pos": 8,
+       "time": 38.58
+      },
+      {
+       "lap": 10,
+       "pos": 8,
+       "time": 39.052
+      },
+      {
+       "lap": 11,
+       "pos": 8,
+       "time": 43.935
+      },
+      {
+       "lap": 12,
+       "pos": 8,
+       "time": 40.423
+      },
+      {
+       "lap": 13,
+       "pos": 6,
+       "time": 48.071
+      }
+     ]
+    },
+    {
+     "pos": 7,
+     "carNum": 4,
+     "driverName": "YONI COZAC",
+     "driverSlug": "yoni-cozac",
+     "qual": 4,
+     "lapsCompleted": 12,
+     "totalTime": "7:09.649",
+     "behind": "1 Lap",
+     "fastLap": 36.568,
+     "fastLapNum": 5,
+     "avgLap": 37.502,
+     "avgTop5": 36.842,
+     "avgTop10": 37.307,
+     "avgTop15": null,
+     "top3Consec": 111.153,
+     "stdDev": 0.8,
+     "consistency": 97.88,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 4,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 3,
+       "time": 17.127
+      },
+      {
+       "lap": 2,
+       "pos": 2,
+       "time": 37.813
+      },
+      {
+       "lap": 3,
+       "pos": 2,
+       "time": 37.53
+      },
+      {
+       "lap": 4,
+       "pos": 2,
+       "time": 37.15
+      },
+      {
+       "lap": 5,
+       "pos": 2,
+       "time": 36.568
+      },
+      {
+       "lap": 6,
+       "pos": 3,
+       "time": 37.954
+      },
+      {
+       "lap": 7,
+       "pos": 3,
+       "time": 39.448
+      },
+      {
+       "lap": 8,
+       "pos": 3,
+       "time": 36.79
+      },
+      {
+       "lap": 9,
+       "pos": 2,
+       "time": 38.116
+      },
+      {
+       "lap": 10,
+       "pos": 2,
+       "time": 36.57
+      },
+      {
+       "lap": 11,
+       "pos": 2,
+       "time": 37.132
+      },
+      {
+       "lap": 12,
+       "pos": 2,
+       "time": 37.451
+      }
+     ]
+    },
+    {
+     "pos": 8,
+     "carNum": 5,
+     "driverName": "JONATHAN BUBLIL",
+     "driverSlug": "jonathan-bublil",
+     "qual": 5,
+     "lapsCompleted": 12,
+     "totalTime": "7:37.942",
+     "behind": "28.293",
+     "fastLap": 35.533,
+     "fastLapNum": 10,
+     "avgLap": 40.044,
+     "avgTop5": 37.411,
+     "avgTop10": 39.512,
+     "avgTop15": null,
+     "top3Consec": 111.68,
+     "stdDev": 2.89,
+     "consistency": 92.78,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 5,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 4,
+       "time": 17.454
+      },
+      {
+       "lap": 2,
+       "pos": 6,
+       "time": 42.943
+      },
+      {
+       "lap": 3,
+       "pos": 7,
+       "time": 39.374
+      },
+      {
+       "lap": 4,
+       "pos": 7,
+       "time": 41.791
+      },
+      {
+       "lap": 5,
+       "pos": 6,
+       "time": 38.655
+      },
+      {
+       "lap": 6,
+       "pos": 8,
+       "time": 45.365
+      },
+      {
+       "lap": 7,
+       "pos": 8,
+       "time": 42.044
+      },
+      {
+       "lap": 8,
+       "pos": 8,
+       "time": 36.819
+      },
+      {
+       "lap": 9,
+       "pos": 6,
+       "time": 39.328
+      },
+      {
+       "lap": 10,
+       "pos": 6,
+       "time": 35.533
+      },
+      {
+       "lap": 11,
+       "pos": 6,
+       "time": 41.915
+      },
+      {
+       "lap": 12,
+       "pos": 6,
+       "time": 36.721
+      }
+     ]
+    },
+    {
+     "pos": 9,
+     "carNum": 1,
+     "driverName": "OFIR AVITAN",
+     "driverSlug": "ofir-avitan",
+     "qual": 1,
+     "lapsCompleted": 8,
+     "totalTime": "4:25.740",
+     "behind": "4 Laps",
+     "fastLap": 33.834,
+     "fastLapNum": 3,
+     "avgLap": 35.846,
+     "avgTop5": 34.363,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 106.196,
+     "stdDev": 2.49,
+     "consistency": 93.04,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 1,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 1,
+       "time": 14.816
+      },
+      {
+       "lap": 2,
+       "pos": 1,
+       "time": 34
+      },
+      {
+       "lap": 3,
+       "pos": 1,
+       "time": 33.834
+      },
+      {
+       "lap": 4,
+       "pos": 1,
+       "time": 38.362
+      },
+      {
+       "lap": 5,
+       "pos": 1,
+       "time": 34.534
+      },
+      {
+       "lap": 6,
+       "pos": 1,
+       "time": 33.868
+      },
+      {
+       "lap": 7,
+       "pos": 1,
+       "time": 40.748
+      },
+      {
+       "lap": 8,
+       "pos": 1,
+       "time": 35.578
+      }
+     ]
+    },
+    {
+     "pos": 10,
+     "carNum": 2,
+     "driverName": "HAREL SENDROV",
+     "driverSlug": "harel-sendrov",
+     "qual": 2,
+     "lapsCompleted": 0,
+     "totalTime": "",
+     "behind": "8 Laps",
+     "fastLap": null,
+     "fastLapNum": null,
+     "avgLap": null,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": null,
+     "stdDev": null,
+     "consistency": null,
+     "laps": []
+    }
+   ]
+  },
+  {
+   "id": 7111181,
+   "raceNum": 14,
+   "name": "B3-Main",
+   "className": "1/8 Electric Truggy",
+   "round": "Main Events",
+   "completedAt": "2026-10-09T14:48:00.000Z",
+   "results": [
+    {
+     "pos": 1,
+     "carNum": 3,
+     "driverName": "OSHRI HAJAJ",
+     "driverSlug": "oshri-hajaj",
+     "qual": 3,
+     "lapsCompleted": 13,
+     "totalTime": "8:29.279",
+     "behind": "",
+     "fastLap": 36.916,
+     "fastLapNum": 12,
+     "avgLap": 40.755,
+     "avgTop5": 37.879,
+     "avgTop10": 39.306,
+     "avgTop15": null,
+     "top3Consec": 115.914,
+     "stdDev": 3.87,
+     "consistency": 90.51,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 3,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 3,
+       "time": 20.223
+      },
+      {
+       "lap": 2,
+       "pos": 5,
+       "time": 44.244
+      },
+      {
+       "lap": 3,
+       "pos": 2,
+       "time": 38.145
+      },
+      {
+       "lap": 4,
+       "pos": 1,
+       "time": 37.149
+      },
+      {
+       "lap": 5,
+       "pos": 1,
+       "time": 41.205
+      },
+      {
+       "lap": 6,
+       "pos": 1,
+       "time": 38.709
+      },
+      {
+       "lap": 7,
+       "pos": 1,
+       "time": 41.684
+      },
+      {
+       "lap": 8,
+       "pos": 1,
+       "time": 39.665
+      },
+      {
+       "lap": 9,
+       "pos": 2,
+       "time": 51.753
+      },
+      {
+       "lap": 10,
+       "pos": 2,
+       "time": 40.52
+      },
+      {
+       "lap": 11,
+       "pos": 2,
+       "time": 38.478
+      },
+      {
+       "lap": 12,
+       "pos": 2,
+       "time": 36.916
+      },
+      {
+       "lap": 13,
+       "pos": 1,
+       "time": 40.588
+      }
+     ]
+    },
+    {
+     "pos": 2,
+     "carNum": 1,
+     "driverName": "YONATAN IDEL",
+     "driverSlug": "yonatan-idel",
+     "qual": 1,
+     "lapsCompleted": 13,
+     "totalTime": "8:30.267",
+     "behind": "0.988",
+     "fastLap": 38.358,
+     "fastLapNum": 2,
+     "avgLap": 41.036,
+     "avgTop5": 38.657,
+     "avgTop10": 40.139,
+     "avgTop15": null,
+     "top3Consec": 117.799,
+     "stdDev": 2.53,
+     "consistency": 93.84,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 1,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 2,
+       "time": 17.833
+      },
+      {
+       "lap": 2,
+       "pos": 1,
+       "time": 38.358
+      },
+      {
+       "lap": 3,
+       "pos": 1,
+       "time": 45.605
+      },
+      {
+       "lap": 4,
+       "pos": 2,
+       "time": 42.61
+      },
+      {
+       "lap": 5,
+       "pos": 2,
+       "time": 39.08
+      },
+      {
+       "lap": 6,
+       "pos": 2,
+       "time": 38.381
+      },
+      {
+       "lap": 7,
+       "pos": 2,
+       "time": 40.356
+      },
+      {
+       "lap": 8,
+       "pos": 2,
+       "time": 45.442
+      },
+      {
+       "lap": 9,
+       "pos": 1,
+       "time": 41.922
+      },
+      {
+       "lap": 10,
+       "pos": 1,
+       "time": 40.334
+      },
+      {
+       "lap": 11,
+       "pos": 1,
+       "time": 38.759
+      },
+      {
+       "lap": 12,
+       "pos": 1,
+       "time": 38.706
+      },
+      {
+       "lap": 13,
+       "pos": 2,
+       "time": 42.881
+      }
+     ]
+    },
+    {
+     "pos": 3,
+     "carNum": 4,
+     "driverName": "BENNY BRIGA",
+     "driverSlug": "benny-briga",
+     "qual": 4,
+     "lapsCompleted": 13,
+     "totalTime": "8:36.625",
+     "behind": "6.358",
+     "fastLap": 36.799,
+     "fastLapNum": 12,
+     "avgLap": 41.192,
+     "avgTop5": 38.107,
+     "avgTop10": 40.487,
+     "avgTop15": null,
+     "top3Consec": 116.625,
+     "stdDev": 2.85,
+     "consistency": 93.08,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 4,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 6,
+       "time": 22.322
+      },
+      {
+       "lap": 2,
+       "pos": 2,
+       "time": 38.525
+      },
+      {
+       "lap": 3,
+       "pos": 4,
+       "time": 44.098
+      },
+      {
+       "lap": 4,
+       "pos": 3,
+       "time": 42.598
+      },
+      {
+       "lap": 5,
+       "pos": 4,
+       "time": 43.793
+      },
+      {
+       "lap": 6,
+       "pos": 3,
+       "time": 40.801
+      },
+      {
+       "lap": 7,
+       "pos": 3,
+       "time": 37.4
+      },
+      {
+       "lap": 8,
+       "pos": 3,
+       "time": 38.424
+      },
+      {
+       "lap": 9,
+       "pos": 3,
+       "time": 45.332
+      },
+      {
+       "lap": 10,
+       "pos": 3,
+       "time": 43.326
+      },
+      {
+       "lap": 11,
+       "pos": 3,
+       "time": 39.388
+      },
+      {
+       "lap": 12,
+       "pos": 3,
+       "time": 36.799
+      },
+      {
+       "lap": 13,
+       "pos": 3,
+       "time": 43.819
+      }
+     ]
+    },
+    {
+     "pos": 4,
+     "carNum": 5,
+     "driverName": "LIOR YAKOV",
+     "driverSlug": "lior-yakov",
+     "qual": 5,
+     "lapsCompleted": 12,
+     "totalTime": "8:00.300",
+     "behind": "1 Lap",
+     "fastLap": 38.72,
+     "fastLapNum": 11,
+     "avgLap": 41.807,
+     "avgTop5": 39.608,
+     "avgTop10": 41.354,
+     "avgTop15": null,
+     "top3Consec": 119.59,
+     "stdDev": 2.44,
+     "consistency": 94.16,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 5,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 4,
+       "time": 20.428
+      },
+      {
+       "lap": 2,
+       "pos": 3,
+       "time": 41.948
+      },
+      {
+       "lap": 3,
+       "pos": 5,
+       "time": 44.83
+      },
+      {
+       "lap": 4,
+       "pos": 5,
+       "time": 44.722
+      },
+      {
+       "lap": 5,
+       "pos": 5,
+       "time": 42.234
+      },
+      {
+       "lap": 6,
+       "pos": 4,
+       "time": 39.132
+      },
+      {
+       "lap": 7,
+       "pos": 4,
+       "time": 39.318
+      },
+      {
+       "lap": 8,
+       "pos": 4,
+       "time": 46.335
+      },
+      {
+       "lap": 9,
+       "pos": 4,
+       "time": 41.763
+      },
+      {
+       "lap": 10,
+       "pos": 4,
+       "time": 40.969
+      },
+      {
+       "lap": 11,
+       "pos": 4,
+       "time": 38.72
+      },
+      {
+       "lap": 12,
+       "pos": 4,
+       "time": 39.901
+      }
+     ]
+    },
+    {
+     "pos": 5,
+     "carNum": 6,
+     "driverName": "KOUKI BALOUKA",
+     "driverSlug": "kouki-balouka",
+     "qual": 6,
+     "lapsCompleted": 12,
+     "totalTime": "8:02.840",
+     "behind": "2.540",
+     "fastLap": 38.578,
+     "fastLapNum": 11,
+     "avgLap": 41.916,
+     "avgTop5": 39.663,
+     "avgTop10": 41.332,
+     "avgTop15": null,
+     "top3Consec": 118.28,
+     "stdDev": 2.95,
+     "consistency": 92.97,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 6,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 5,
+       "time": 21.759
+      },
+      {
+       "lap": 2,
+       "pos": 4,
+       "time": 40.854
+      },
+      {
+       "lap": 3,
+       "pos": 3,
+       "time": 41.144
+      },
+      {
+       "lap": 4,
+       "pos": 4,
+       "time": 46.456
+      },
+      {
+       "lap": 5,
+       "pos": 3,
+       "time": 40.065
+      },
+      {
+       "lap": 6,
+       "pos": 5,
+       "time": 47.765
+      },
+      {
+       "lap": 7,
+       "pos": 5,
+       "time": 45.266
+      },
+      {
+       "lap": 8,
+       "pos": 5,
+       "time": 39.972
+      },
+      {
+       "lap": 9,
+       "pos": 5,
+       "time": 39.349
+      },
+      {
+       "lap": 10,
+       "pos": 5,
+       "time": 40.353
+      },
+      {
+       "lap": 11,
+       "pos": 5,
+       "time": 38.578
+      },
+      {
+       "lap": 12,
+       "pos": 5,
+       "time": 41.279
+      }
+     ]
+    },
+    {
+     "pos": 6,
+     "carNum": 8,
+     "driverName": "RAMI MORDOCH",
+     "driverSlug": "rami-mordoch",
+     "qual": 8,
+     "lapsCompleted": 11,
+     "totalTime": "8:17.130",
+     "behind": "1 Lap",
+     "fastLap": 41.459,
+     "fastLapNum": 7,
+     "avgLap": 46.7,
+     "avgTop5": 43.119,
+     "avgTop10": 46.7,
+     "avgTop15": null,
+     "top3Consec": 129.313,
+     "stdDev": 4.2,
+     "consistency": 91.01,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 8,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 9,
+       "time": 30.132
+      },
+      {
+       "lap": 2,
+       "pos": 8,
+       "time": 49.043
+      },
+      {
+       "lap": 3,
+       "pos": 8,
+       "time": 45.674
+      },
+      {
+       "lap": 4,
+       "pos": 7,
+       "time": 44.027
+      },
+      {
+       "lap": 5,
+       "pos": 7,
+       "time": 44.878
+      },
+      {
+       "lap": 6,
+       "pos": 6,
+       "time": 42.976
+      },
+      {
+       "lap": 7,
+       "pos": 6,
+       "time": 41.459
+      },
+      {
+       "lap": 8,
+       "pos": 7,
+       "time": 54.071
+      },
+      {
+       "lap": 9,
+       "pos": 7,
+       "time": 50.435
+      },
+      {
+       "lap": 10,
+       "pos": 7,
+       "time": 42.257
+      },
+      {
+       "lap": 11,
+       "pos": 6,
+       "time": 52.178
+      }
+     ]
+    },
+    {
+     "pos": 7,
+     "carNum": 7,
+     "driverName": "ITAMAR CASS",
+     "driverSlug": "itamar-cass",
+     "qual": 7,
+     "lapsCompleted": 10,
+     "totalTime": "7:14.310",
+     "behind": "1 Lap",
+     "fastLap": 39.921,
+     "fastLapNum": 4,
+     "avgLap": 45.49,
+     "avgTop5": 41.108,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 129.422,
+     "stdDev": 5.07,
+     "consistency": 88.85,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 7,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 7,
+       "time": 24.896
+      },
+      {
+       "lap": 2,
+       "pos": 6,
+       "time": 49.27
+      },
+      {
+       "lap": 3,
+       "pos": 7,
+       "time": 40.231
+      },
+      {
+       "lap": 4,
+       "pos": 6,
+       "time": 39.921
+      },
+      {
+       "lap": 5,
+       "pos": 6,
+       "time": 49.738
+      },
+      {
+       "lap": 6,
+       "pos": 7,
+       "time": 53.427
+      },
+      {
+       "lap": 7,
+       "pos": 7,
+       "time": 41.582
+      },
+      {
+       "lap": 8,
+       "pos": 6,
+       "time": 51.441
+      },
+      {
+       "lap": 9,
+       "pos": 6,
+       "time": 41.185
+      },
+      {
+       "lap": 10,
+       "pos": 6,
+       "time": 42.619
+      }
+     ]
+    },
+    {
+     "pos": 8,
+     "carNum": 9,
+     "driverName": "MEIR PERETS",
+     "driverSlug": "meir-perets",
+     "qual": 9,
+     "lapsCompleted": 10,
+     "totalTime": "8:47.862",
+     "behind": "1:33.552",
+     "fastLap": 48.256,
+     "fastLapNum": 5,
+     "avgLap": 55.375,
+     "avgTop5": 50.537,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": 153.759,
+     "stdDev": 6.63,
+     "consistency": 88.03,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 9,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 8,
+       "time": 29.488
+      },
+      {
+       "lap": 2,
+       "pos": 9,
+       "time": 52.878
+      },
+      {
+       "lap": 3,
+       "pos": 9,
+       "time": 55.981
+      },
+      {
+       "lap": 4,
+       "pos": 8,
+       "time": 65.196
+      },
+      {
+       "lap": 5,
+       "pos": 8,
+       "time": 48.256
+      },
+      {
+       "lap": 6,
+       "pos": 8,
+       "time": 48.987
+      },
+      {
+       "lap": 7,
+       "pos": 8,
+       "time": 56.516
+      },
+      {
+       "lap": 8,
+       "pos": 8,
+       "time": 53.146
+      },
+      {
+       "lap": 9,
+       "pos": 8,
+       "time": 49.419
+      },
+      {
+       "lap": 10,
+       "pos": 8,
+       "time": 67.995
+      }
+     ]
+    },
+    {
+     "pos": 9,
+     "carNum": 2,
+     "driverName": "LIRAN VAKNIN",
+     "driverSlug": "liran-vaknin",
+     "qual": 2,
+     "lapsCompleted": 3,
+     "totalTime": "1:50.362",
+     "behind": "7 Laps",
+     "fastLap": 33.836,
+     "fastLapNum": 3,
+     "avgLap": 46.717,
+     "avgTop5": null,
+     "avgTop10": null,
+     "avgTop15": null,
+     "top3Consec": null,
+     "stdDev": 12.88,
+     "consistency": 72.43,
+     "laps": [
+      {
+       "lap": 0,
+       "pos": 2,
+       "time": 0
+      },
+      {
+       "lap": 1,
+       "pos": 1,
+       "time": 16.929
+      },
+      {
+       "lap": 2,
+       "pos": 7,
+       "time": 59.597
+      },
+      {
+       "lap": 3,
+       "pos": 6,
+       "time": 33.836
+      }
+     ]
+    }
+   ]
+  },
   {
    "id": 7111169,
    "raceNum": 13,
