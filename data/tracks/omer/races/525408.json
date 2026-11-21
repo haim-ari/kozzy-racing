@@ -92,7 +92,7 @@
  },
  "weather": {
   "tempC": 26,
-  "condition": "cloudy",
+  "condition": "sunny",
   "windKmh": 11,
   "rainMm": 0
  },
